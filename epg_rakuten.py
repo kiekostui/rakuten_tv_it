@@ -8,7 +8,7 @@ import sys
 
 # --- Configuration Constants ---
 
-EPG_TIMEFRAME = 12 # Time window in hours for EPG
+EPG_TIMEFRAME = 48 # Time window in hours for EPG
 CHANNELS_CHUNK = 25 # Number of channels per single request
 TIMEFRAME_CHUNK = 4 # Time window chunk for single request
 MARKET = 'it'
