@@ -12,71 +12,8 @@ EPG_TIMEFRAME = 48 # Time window in hours for EPG
 CHANNELS_CHUNK = 25 # Number of channels per single request
 TIMEFRAME_CHUNK = 4 # Time window chunk for single request
 MARKET = 'it'
-OUTPUT_FILE = f'epg_rakuten_{MARKET}.xml'
-
-
-# --- Get classification_id ---
-
-
-def get_class_id(MARKET):
-    """
-    Executes the API request to obtain classification_id for specified market.
-    """
-
-    url = 'https://gizmo.rakuten.tv/v3/me/start'
-
-    params = {
-        'device_identifier':'web',
-        'market_code':f'{MARKET}'
-        }
-
-    payload_data ={
-       "device_identifier":"web",
-       "device_metadata":{
-          "app_version":"GENERIC",
-          "audio_quality":"",
-          "brand":"GENERIC",
-          "firmware":"GENERIC",
-          "hdr":False,
-          "model":"GENERIC",
-          "os":"GENERIC",
-          "sdk":"",
-          "serial_number":"not implemented",
-          "trusted_uid":False,
-          "uid":"GENERIC",
-          "video_quality":"GENERIC",
-          "year":1970
-        },
-       "ifa_id":""
-    }
-
-    try:
-        response = requests.post(url, params=params, json=payload_data, timeout=10)
-        response.raise_for_status()
-        
-    except requests.exceptions.RequestException as e:
-        print (f'Error during request of {url} with params:\n'
-               ''.join(f'{k}={v}\n' for k, v in params.items())
-               )
-
-    try:
-        file_json = response.json()
-
-    except:
-        print('Non json')
-
-    if file_json:
-        # Check first path: user.profile
-        class_id = str(file_json.get('data', {}).get('user',{}).get('profile',{}).get('classification',{}).get('id','') or '')
-
-    if not class_id:
-        # Check second path: direct profile
-        class_id = str(file_json.get('data', {}).get('profile',{}).get('classification',{}).get('id','') or '')
-
-    if not class_id: 
-        return None
-    
-    return str(class_id)
+CLASSIFICATION_ID = '36'
+OUTPUT_FILE = f'epg_rakuten_it.xml'
 
 
 # --- Time Conversion Function ---
@@ -196,12 +133,12 @@ def get_json(url, start_epg_iso, end_epg_iso, page, MARKET, class_id):
     """
 
     params = {
-        'classification_id':f'{class_id}',
+        'CLASSIFICATION_ID':CLASSIFICATION_ID,
         'device_identifier':'web',
         'epg_ends_at':f'{end_epg_iso}',
         'epg_starts_at':f'{start_epg_iso}',
-        'locale':f'{MARKET}',
-        'market_code':f'{MARKET}',
+        'locale':f'it',
+        'market_code':f'it',
         'page':f'{str(page)}',
         'per_page':f'{str(CHANNELS_CHUNK)}'
         }
@@ -234,18 +171,6 @@ def get_json(url, start_epg_iso, end_epg_iso, page, MARKET, class_id):
 if __name__ == '__main__':
     start = datetime.now(UTC)
     print(f'start: {start.strftime('%Y-%m-%d %H:%M:%S')}')
-
-    #Obtain classification_id for specified market
-    class_id = get_class_id(MARKET)
-    if class_id:
-        print(f'Market: {MARKET}\nclassification_id: {class_id}')
-
-    if not class_id:
-        # Fallback to default values in case of error
-        print(f'Not possible to retrieve classification_id for specified market ({MARKET}). Set default values for the \'it\' market')
-        class_id = '36'
-        MARKET = 'it'
-        OUTPUT_FILE = f'epg_rakuten_{MARKET}.xml' #Reassign output file name
 
     # Truncate time: hh:00:00,000
     start_time = start.replace(minute=0, second=0, microsecond=0)
