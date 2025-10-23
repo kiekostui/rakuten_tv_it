@@ -480,31 +480,6 @@
         <lcn />
         <icon src="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/11c05b3e-6fb6-45f6-8d49-40de524478b0.jpeg" />
     </channel>
-    <programme start="20251023214001 +0200" stop="20251023220000 +0200" channel="france-24-en">
-        <title>Eye on Africa</title>
-        <desc>All the day's news from Africa, with France 24's correspondents and guests on set.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023220001 +0200" stop="20251023221500 +0200" channel="france-24-en">
-        <title>News</title>
-        <desc>An international news bulletin, presented live from the newsroom.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023221501 +0200" stop="20251023222100 +0200" channel="france-24-en">
-        <title>Business</title>
-        <desc>A daily update on the latest business and economic news.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023222101 +0200" stop="20251023223200 +0200" channel="france-24-en">
-        <title>Truth or Fake</title>
-        <desc>A fact-checking rendez-vous in association with the FRANCE 24 Observers.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023223201 +0200" stop="20251023224400 +0200" channel="france-24-en">
-        <title>A Propos</title>
-        <desc>A comprehensive look at just one story that is making the headlines around the world.</desc>
-        <icon src="" />
-    </programme>
     <programme start="20251023224401 +0200" stop="20251023230000 +0200" channel="france-24-en">
         <title>Eye on Africa</title>
         <desc>All the day's news from Africa, with France 24's correspondents and guests on set.</desc>
@@ -1465,9 +1440,24 @@
         <desc>Politics, economy, society - all the essential news from France, as seen by the France 24 teams.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220000 +0200" stop="20251023225959 +0200" channel="newsworld-ita">
-        <title>NewsWorld</title>
-        <desc />
+    <programme start="20251025220001 +0200" stop="20251025221500 +0200" channel="france-24-en">
+        <title>News</title>
+        <desc>An international news bulletin, presented live from the newsroom.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025221501 +0200" stop="20251025223000 +0200" channel="france-24-en">
+        <title>Reporters</title>
+        <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025223001 +0200" stop="20251025224500 +0200" channel="france-24-en">
+        <title>News</title>
+        <desc>An international news bulletin, presented live from the newsroom.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025224501 +0200" stop="20251025230000 +0200" channel="france-24-en">
+        <title>The Reporter's Week</title>
+        <desc>International in-depth reports from the France 24 teams and senior reporters around the world.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023230000 +0200" stop="20251023235959 +0200" channel="newsworld-ita">
@@ -1705,14 +1695,9 @@
         <desc />
         <icon src="" />
     </programme>
-    <programme start="20251023190001 +0200" stop="20251023220000 +0200" channel="cgtn">
-        <title>Global Business</title>
-        <desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023220001 +0200" stop="20251023223000 +0200" channel="cgtn">
-        <title>The World Today</title>
-        <desc>The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <programme start="20251025220000 +0200" stop="20251025225959 +0200" channel="newsworld-ita">
+        <title>NewsWorld</title>
+        <desc />
         <icon src="" />
     </programme>
     <programme start="20251023223001 +0200" stop="20251023230000 +0200" channel="cgtn">
@@ -2160,14 +2145,14 @@
         <desc>Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220000 +0200" stop="20251023222959 +0200" channel="africanews-eng">
-        <title>Africanews</title>
-        <desc>Africanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms.</desc>
+    <programme start="20251025220001 +0200" stop="20251025223000 +0200" channel="cgtn">
+        <title>The World Today</title>
+        <desc>The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023223000 +0200" stop="20251023225959 +0200" channel="africanews-eng">
-        <title>Africanews</title>
-        <desc>Africanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms.</desc>
+    <programme start="20251025223001 +0200" stop="20251025230000 +0200" channel="cgtn">
+        <title>World Insight with Tian Wei</title>
+        <desc>World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023230000 +0200" stop="20251023232959 +0200" channel="africanews-eng">
@@ -2645,9 +2630,14 @@
         <desc>Africanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220005 +0200" stop="20251023225958 +0200" channel="bloomberg-tv-plus">
-        <title>Bloomberg TV+</title>
-        <desc>Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
+    <programme start="20251025223000 +0200" stop="20251025225959 +0200" channel="africanews-eng">
+        <title>Africanews</title>
+        <desc>Africanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025230000 +0200" stop="20251025232959 +0200" channel="africanews-eng">
+        <title>Africanews</title>
+        <desc>Africanews is the only independent national and international news channel from an African perspective. It reports breaking news from the continent, delivers unbiased reporting and is available on TV and digital platforms.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023230005 +0200" stop="20251023235958 +0200" channel="bloomberg-tv-plus">
@@ -2885,9 +2875,9 @@
         <desc>Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023200006 +0200" stop="20251023220000 +0200" channel="bloomberg-originals-new">
-        <title>Bloomberg Originals</title>
-        <desc>Bloomberg Originals</desc>
+    <programme start="20251025220005 +0200" stop="20251025225958 +0200" channel="bloomberg-tv-plus">
+        <title>Bloomberg TV+</title>
+        <desc>Bloomberg TV+ UHD delivers Live 24x7 global business and markets news, data, analysis, and stories from Bloomberg News and Businessweek – available in a 4K ultra high definition (UHD) viewing experience.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023220006 +0200" stop="20251024000000 +0200" channel="bloomberg-originals-new">
@@ -3006,6 +2996,11 @@
         <icon src="" />
     </programme>
     <programme start="20251025200006 +0200" stop="20251025220000 +0200" channel="bloomberg-originals-new">
+        <title>Bloomberg Originals</title>
+        <desc>Bloomberg Originals</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025220006 +0200" stop="20251026000000 +0200" channel="bloomberg-originals-new">
         <title>Bloomberg Originals</title>
         <desc>Bloomberg Originals</desc>
         <icon src="" />
@@ -3180,14 +3175,9 @@
         <desc>The World Pride Ball is a fierce voguing competition showcasing athleticism and artistry!</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023215001 +0200" stop="20251023221900 +0200" channel="urania-news">
-        <title>Radar</title>
-        <desc>(Stagione 2) Il format di approfondimento sull'attualità politica e internazionale condotto da Roberto Arditti e Gaia De Scalzi.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023221901 +0200" stop="20251023225900 +0200" channel="urania-news">
-        <title>Largo Chigi - Vista sulla politica</title>
-        <desc>Largo Chigi è un format di approfondimento politico-economico curato dalla testata The Watcher Post in collaborazione con gli UTOPIA Studios.</desc>
+    <programme start="20251025220506 +0200" stop="20251025232000 +0200" channel="revry-news">
+        <title>King of Drag</title>
+        <desc>Get ready for the kings to pop, lock, and drop it as they tackle the iconic world of boy bands!</desc>
         <icon src="" />
     </programme>
     <programme start="20251023225901 +0200" stop="20251023234400 +0200" channel="urania-news">
@@ -3485,11 +3475,6 @@
         <desc>Lo spin-off del Riformista, Paolo Bozzacchi e Ilaria Donatio ospitano, accanto al direttore Claudio Velardi, economisti, imprenditori e protagonisti del mondo delle filiere produttive e della finanza.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251025100000 +0200" stop="20251025105959 +0200" channel="urania-news">
-        <title>Urania News</title>
-        <desc />
-        <icon src="" />
-    </programme>
     <programme start="20251025110000 +0200" stop="20251025115959 +0200" channel="urania-news">
         <title>Urania News</title>
         <desc />
@@ -3545,8 +3530,8 @@
         <desc />
         <icon src="" />
     </programme>
-    <programme start="20251023220000 +0200" stop="20251023225959 +0200" channel="the-reuters-60">
-        <title>The Reuters 60</title>
+    <programme start="20251025220000 +0200" stop="20251025225959 +0200" channel="urania-news">
+        <title>Urania News</title>
         <desc />
         <icon src="" />
     </programme>
@@ -3785,14 +3770,9 @@
         <desc />
         <icon src="" />
     </programme>
-    <programme start="20251023220000 +0200" stop="20251023222959 +0200" channel="euronews-live-ita">
-        <title>Euronews IN DIRETTA</title>
-        <desc>Euronews IN DIRETTA</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023223000 +0200" stop="20251023225959 +0200" channel="euronews-live-ita">
-        <title>Euronews IN DIRETTA</title>
-        <desc>Euronews IN DIRETTA</desc>
+    <programme start="20251025220000 +0200" stop="20251025225959 +0200" channel="the-reuters-60">
+        <title>The Reuters 60</title>
+        <desc />
         <icon src="" />
     </programme>
     <programme start="20251023230000 +0200" stop="20251023232959 +0200" channel="euronews-live-ita">
@@ -4270,9 +4250,14 @@
         <desc>Euronews IN DIRETTA</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213001 +0200" stop="20251023220000 +0200" channel="cgtn-documentary">
-        <title>Pixel Collage</title>
-        <desc>A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
+    <programme start="20251025223000 +0200" stop="20251025225959 +0200" channel="euronews-live-ita">
+        <title>Euronews IN DIRETTA</title>
+        <desc>Euronews IN DIRETTA</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025230000 +0200" stop="20251025232959 +0200" channel="euronews-live-ita">
+        <title>Euronews IN DIRETTA</title>
+        <desc>Euronews IN DIRETTA</desc>
         <icon src="" />
     </programme>
     <programme start="20251023220001 +0200" stop="20251023230000 +0200" channel="cgtn-documentary">
@@ -4635,19 +4620,9 @@
         <desc>A well-crafted collage of selected short documentaries telling stories about all aspects of China! People, technology, culture, and wildlife, all are showcased in Internet-friendly form.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213348 +0200" stop="20251023220530 +0200" channel="wedo-big-stories-ita">
-        <title>Close Quarter Battle - S01:E07 - S.W.A.T.</title>
-        <desc>In 1968, a new form of military policing was being developed in a rural area north of Los Angeles. The Los Angeles Police Department sent an observer to this unit, and he, in turn, took this knowledge back to the LAPD. This contributed to the development of the department’s first Special Weapons and Tactics (S.W.A.T.) team. This CQB episode takes an historical journey to examine how this incident affected and changed police tactics around the world. Using CQB’s trademark “sub-second” analysis, the program also looks at how police S.W.A.T. teams train, plan and equip themselves for the challenges of urban combat. The dramatization of a 1980s S.W.A.T. siege of a gang safe-house demonstrates...</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023220531 +0200" stop="20251023223054 +0200" channel="wedo-big-stories-ita">
-        <title>Savage Wild - S05:E09 - Save a Watermelon Kill a Boar Part 2</title>
-        <desc>After slaying a monster boar, Manny heads back into the forest and goes toe to toe with an even bigger boar.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023223055 +0200" stop="20251023225552 +0200" channel="wedo-big-stories-ita">
-        <title>Savage Wild - S05:E10 - How to Stop a Charging Wild Boar</title>
-        <desc>In this episode of  Savage Wild, we're headed into the palmettos with Full Rut Outfitters in search of wild boar.</desc>
+    <programme start="20251025220001 +0200" stop="20251025230000 +0200" channel="cgtn-documentary">
+        <title>Today’s Top Pick</title>
+        <desc>Documentaries in this slot are rebroadcasts of our most-viewed and most popular stories of the season. They feature important social, economic, environmental or other policy-driven issues, affecting lives nationwide or simply in one small village. A broad selection of top productions by Chinese top documentary producers.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023225553 +0200" stop="20251023234340 +0200" channel="wedo-big-stories-ita">
@@ -5045,14 +5020,14 @@
         <desc>Better safe than sorry…… Desperate Hours takes a look at the Kyoto Protocol and the danger of rising sea levels. The programme looks at the causes of environmental disasters including landfill waste, the great Pacific Garbage Patch, oil spills, air pollution, and the destruction of the rain forest as well as the destructive effects of environmental disasters including ozone depletion and rising temperatures in the arctic.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213718 +0200" stop="20251023220654 +0200" channel="weather-spy-new">
-        <title>Captured: Extreme Weather</title>
-        <desc>A narrow escape from a raging wildfire – a dramatic encounter with a mudslide - the jaw-dropping images of a flash flood – just some of the encounters with two of nature’s most destructive forces caught on camera in this Fire and Water episode.</desc>
+    <programme start="20251025221415 +0200" stop="20251025224335 +0200" channel="wedo-big-stories-ita">
+        <title>Desperate Hours - S01:E13 - Desperate World</title>
+        <desc>Desperate Hours examines some of the worst of the worst disasters in the world. It looks at the Eyjafjallajökull eruption in Iceland, earthquakes in Nepal. epidemics like Ebola and SARS, the Binhai New Development Zone fire in China, Hurricane Sandy in New York, the southeast Asia Indian Ocean Tsunami, a destructive sinkhole in Bosnia, the Fukushima Nuclear Plant disaster, the Bhopal gas disaster, the Exxon Valdez crash in Alaska, and traffic and airplane accidents.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220700 +0200" stop="20251023223654 +0200" channel="weather-spy-new">
-        <title>Viral Wild</title>
-        <desc>Dive deep into the shark infested waters all from the safety of your couch</desc>
+    <programme start="20251025224336 +0200" stop="20251025231040 +0200" channel="wedo-big-stories-ita">
+        <title>Alaska's Wild Gourmet - S01:E01 - A Family Affair</title>
+        <desc>In the remote corners of the Alaskan bush country are bounties unlike any other. Rugged, raw and now cooked - this is the last culinary frontier where one chef is redefining what it means to eat like a wild man. Finicky clients, bi-polar weather changes, and food and supply shortages often push Bradley to the last ounce of his sanity but this creative, free-spirit always seems to deliver.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223700 +0200" stop="20251023230654 +0200" channel="weather-spy-new">
@@ -5505,14 +5480,14 @@
         <desc>Immerse yourself in the dramatic landscapes of nature's dynamic symphony.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213859 +0200" stop="20251023220713 +0200" channel="filmrise-forensic-files-ita">
-        <title>Forensic Files</title>
-        <desc>Nel 1969, l'operatrice telefonica venticinquenne Diane Maxwell venne stuprata e uccisa. Suo fratello promise che avrebbe scoperto il responsabile e assicurato l'assassino alla giustizia.</desc>
+    <programme start="20251025221500 +0200" stop="20251025224454 +0200" channel="weather-spy-new">
+        <title>Sinister Storms</title>
+        <desc>Lightning strikes, volcanic eruptions, cyclones, and dust storms unleash nature’s raw power on Earth.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220714 +0200" stop="20251023223457 +0200" channel="filmrise-forensic-files-ita">
-        <title>Forensic Files</title>
-        <desc>James Kenneth Elmen Jr. rapì Julie Estes, allora 21enne, dal minimarket di Southside dove lavorava nel 1985. La violentò e la uccise. Il suo corpo fu ritrovato il giorno dopo, ma l'omicidio rimase irrisolto fino al 2003.</desc>
+    <programme start="20251025224500 +0200" stop="20251025231454 +0200" channel="weather-spy-new">
+        <title>Sinister Storms</title>
+        <desc>Experience the devastation wrought by calamities and the havoc they wreak</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223458 +0200" stop="20251023230313 +0200" channel="filmrise-forensic-files-ita">
@@ -6030,9 +6005,14 @@
         <desc>Nel 1969, l'operatrice telefonica venticinquenne Diane Maxwell venne stuprata e uccisa. Suo fratello promise che avrebbe scoperto il responsabile e assicurato l'assassino alla giustizia.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023211548 +0200" stop="20251023225737 +0200" channel="hell-s-kitchen-it-itv">
-        <title>Hell's Kitchen Italia S4 E1</title>
-        <desc>E’ un nuovo giorno ad Hell’s kitchen. I cuochi stanno riposando, ma vengono svegliati di soprassalto dagli assordanti rumori di due fischietti, impugnati dai sous chef.</desc>
+    <programme start="20251025222755 +0200" stop="20251025225608 +0200" channel="filmrise-forensic-files-ita">
+        <title>Forensic Files</title>
+        <desc>Dopo aver sparato alla testa delle vittime, l'assassino ha inscenato la scena del crimine, ha messo le prove incriminanti in un sacchetto di plastica e le ha gettate nel fiume.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025225609 +0200" stop="20251025232356 +0200" channel="filmrise-forensic-files-ita">
+        <title>Forensic Files</title>
+        <desc>Fifteen years later, DNA technology leads to justice for a murdered woman and her savagely beaten 4-year-old daughter.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023225738 +0200" stop="20251024002402 +0200" channel="hell-s-kitchen-it-itv">
@@ -6280,11 +6260,6 @@
         <desc>La prima prova di questa puntata vede protagonisti la Pina e il marito Emiliano Pepe. Dovranno cucinare un piatto famoso guidati dai cuochi delle due squadre.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220000 +0200" stop="20251023225959 +0200" channel="planeta-junior-ita">
-        <title>Bernard L'Orso</title>
-        <desc />
-        <icon src="" />
-    </programme>
     <programme start="20251023230000 +0200" stop="20251023235959 +0200" channel="planeta-junior-ita">
         <title>Bernard L'Orso</title>
         <desc />
@@ -6520,9 +6495,9 @@
         <desc />
         <icon src="" />
     </programme>
-    <programme start="20251023212253 +0200" stop="20251023224049 +0200" channel="car-city-adventures-it">
-        <title>CarCity: Paure Pazze su Quattro Ruote!</title>
-        <desc>Vruum vruum! Parti per un Halloween pazzesco con gli amici a motore di CarCity. Fantasmini buffi, caramelle a tutta velocità e misteri da ridere!</desc>
+    <programme start="20251025220000 +0200" stop="20251025225959 +0200" channel="planeta-junior-ita">
+        <title>Bernard L'Orso</title>
+        <desc />
         <icon src="" />
     </programme>
     <programme start="20251023224050 +0200" stop="20251023231656 +0200" channel="car-city-adventures-it">
@@ -6845,9 +6820,9 @@
         <desc>Vruum vruum! Parti per un Halloween pazzesco con gli amici a motore di CarCity. Fantasmini buffi, caramelle a tutta velocità e misteri da ridere!</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023215340 +0200" stop="20251023221426 +0200" channel="baby-shark-tv">
-        <title>Pinkfong Super Rescue Team</title>
-        <desc>We Are The Pinkfong's Super Rescue Team! We solve all the problems in the town! Meet Roger the Police Car, Ready the Fire Truck, Forrest the Ambulance, Cloudia the Helicopter. Vroom Vroom, I am the Fire Truck Ready, dreaming of becoming a super-fire car! You're watching "Ready, the Fire Truck's Day", an educational and interactive Super Rescue Team series prepared to you by Pinkfong!</desc>
+    <programme start="20251025224108 +0200" stop="20251025231718 +0200" channel="car-city-adventures-it">
+        <title>Baby Trucks</title>
+        <desc>I Baby sono camioncini curiosi che imparano attraverso divertenti avventure e giochi a scuola, a casa, alla fattoria e in giro per Car City!</desc>
         <icon src="" />
     </programme>
     <programme start="20251023221432 +0200" stop="20251023232301 +0200" channel="baby-shark-tv">
@@ -7275,10 +7250,15 @@
         <desc>Welcome to Baby Shark Hospital, where Dr. Baby Shark will take care of you!</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023204634 +0200" stop="20251023222551 +0200" channel="family-rakuten-tv">
-        <title>Air Bud 5: un amico dal tocco magico</title>
-        <desc>Buddy sta portando il suo show nelle spiaggie grazie ad un nuovo sport: il beach volley! La vita in spiaggia non è così rilassante come sembra. Un'ondata di furti misteriosi ha colpito la città e sono state trovate impronte di zampe sulle scene del crimine.</desc>
-        <icon src="https://images-1.rakuten.tv/storage/snapshot/shot/1497b9b0-f09f-4704-a666-6fdc7c000325-air-bud-spikes-back-1592388296.jpeg" />
+    <programme start="20251025220742 +0200" stop="20251025224937 +0200" channel="baby-shark-tv">
+        <title>Sing along with Baby Shark</title>
+        <desc>Enjoy kids' favorite songs with Shark Family sing-along series. Come and join playful Baby Shark!</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025224944 +0200" stop="20251025231148 +0200" channel="baby-shark-tv">
+        <title>Baby Shark Monthly</title>
+        <desc>All your favorite baby sharks</desc>
+        <icon src="" />
     </programme>
     <programme start="20251023222552 +0200" stop="20251023234951 +0200" channel="family-rakuten-tv">
         <title>Team Hot Wheels: La nascita di un mito</title>
@@ -7535,11 +7515,6 @@
         <desc>La piccola Laney riceve in regalo Ted, un orsacchiotto di peluche dai poteri davvero incredibili, scatenando la gelosia del cagnolino Aussie.</desc>
         <icon src="https://images-1.rakuten.tv/storage/snapshot/shot/818ca44e-50b7-4451-8eee-3cd2fd69333b-aussie-and-ted-s-great-adventure-1622620770.jpeg" />
     </programme>
-    <programme start="20251023210001 +0200" stop="20251023220000 +0200" channel="now-90s00s">
-        <title>Mark Goodier's No.1s of 1993</title>
-        <desc>60 minutes of back to back number 1s from 1993 - featuring the debut number 1s from Shaggy &amp; Take That, plus the return of Meat Loaf! With Mr Charts himself - Mark Goodier.</desc>
-        <icon src="" />
-    </programme>
     <programme start="20251023220001 +0200" stop="20251023235000 +0200" channel="now-90s00s">
         <title>1993's Biggest Love Songs</title>
         <desc>All about love, all Top 20 hits &amp; all released in 1993! From Take That to Meatloaf, Mariah to Gabrielle - how many do you remember &amp; which song do you love most?</desc>
@@ -7638,11 +7613,6 @@
     <programme start="20251025210001 +0200" stop="20251026001000 +0200" channel="now-90s00s">
         <title>Toby's School Disco Top 40</title>
         <desc>Broom Cupboard legend &amp; Heart Radio club maestro Toby Antis presents his 40 school disco favourites from the 00s!</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023210001 +0200" stop="20251023220000 +0200" channel="vevo-pop-90-00-it">
-        <title>Party Mix</title>
-        <desc>Il party più iconico direttamente a casa tua!</desc>
         <icon src="" />
     </programme>
     <programme start="20251023220001 +0200" stop="20251023230000 +0200" channel="vevo-pop-90-00-it">
@@ -7885,9 +7855,9 @@
         <desc>Il party più iconico direttamente a casa tua!</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023210001 +0200" stop="20251023220000 +0200" channel="vevo-pop-it">
-        <title>Pop Hits Italia</title>
-        <desc>I video ufficiali delle canzoni pop italiane sono qui.</desc>
+    <programme start="20251025220001 +0200" stop="20251025230000 +0200" channel="vevo-pop-90-00-it">
+        <title>Girls VS Boys Bands</title>
+        <desc>I video musicali delle boy e girl bands più famose delle due decadi!</desc>
         <icon src="" />
     </programme>
     <programme start="20251023220001 +0200" stop="20251023230000 +0200" channel="vevo-pop-it">
@@ -8115,14 +8085,9 @@
         <desc>Scatenati a ritmo dei video musicali dei tuoi artisti preferiti.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023210001 +0200" stop="20251023220000 +0200" channel="trace-urban">
-        <title>HITS &amp; LYRICS</title>
-        <desc>Sing along to your favorite videos, Karaoke style.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023220001 +0200" stop="20251023224500 +0200" channel="trace-urban">
-        <title>TOP 10 POP</title>
-        <desc>The tracks that make you want to get up and dance, the tunes that make you revisit your favourite memories, the songs that make you fall in love... Top 10 Pop has it all. Join TRACE Urban as we countdown the best of this week Pop videos.</desc>
+    <programme start="20251025220001 +0200" stop="20251025230000 +0200" channel="vevo-pop-it">
+        <title>Live From Vevo Studios</title>
+        <desc>Le esibizioni live dei tuoi artisti preferiti, direttamente dai Vevo Studios! </desc>
         <icon src="" />
     </programme>
     <programme start="20251023224501 +0200" stop="20251023230000 +0200" channel="trace-urban">
@@ -8245,9 +8210,9 @@
         <desc>The perfect playlist to get ready for party nights or a twerk-off on TRACE Urban</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023211001 +0200" stop="20251023220000 +0200" channel="now-rock">
-        <title>Rated Rock! The No.1s</title>
-        <desc>Number 1 rock songs from the last 50 years! With mega hits from the Arctic Monkeys &amp; KOL right back to legends like The Stones &amp; T.Rex!</desc>
+    <programme start="20251025220001 +0200" stop="20251026020000 +0200" channel="trace-urban">
+        <title>WEEK-END VIBES</title>
+        <desc>The perfect playlist to chill on the week-ends.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023220001 +0200" stop="20251024020000 +0200" channel="now-rock">
@@ -8388,6 +8353,11 @@
     <programme start="20251025180001 +0200" stop="20251025220000 +0200" channel="now-rock">
         <title>Alex Baker's 50 Rock Party Bangers</title>
         <desc>Alex Baker brings you the best, most sing-a-longable, rock party bangers of all time. If you love Green Day, The Foo Fighters, Bon Jovi and BMTH, then you are in for a treat!</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025220001 +0200" stop="20251026010000 +0200" channel="now-rock">
+        <title>Nicky Horne's 30 Bad Ass Videos!</title>
+        <desc>Nicky Horne presents his favourite 30 Kick Ass Videos which, need to sit in the hall of fame for Rock Video Greatness featuring Bon Jovi, David Bowie, Kate Bush, Nirvana and Ozzy! </desc>
         <icon src="" />
     </programme>
     <programme start="20251023180001 +0200" stop="20251023235000 +0200" channel="now-80s">
@@ -8541,9 +8511,9 @@
         <desc>Tony flashes back to the 80s and picks 30 Solid Gold Anthems. Expect Blondie, ABC, Level 42, OMD, A-Ha &amp; of course some Spandau Ballet classics.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023210001 +0200" stop="20251023222500 +0200" channel="now-70s">
-        <title>20 Forgotten Floorfillers of Disco</title>
-        <desc>We all know the classics, but here are 20 floorfillers of the 70s you may have forgotten! </desc>
+    <programme start="20251025223001 +0200" stop="20251025230000 +0200" channel="now-80s">
+        <title>1 Extra Hour of Lovin!</title>
+        <desc>As the clocks go back, we've even more from the decade that invented the power ballad - non-stop lovin' back to back.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023222501 +0200" stop="20251023230000 +0200" channel="now-70s">
@@ -8816,9 +8786,9 @@
         <desc>Deluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023210212 +0200" stop="20251023220211 +0200" channel="qello-concerts-by-stingray">
-        <title>Qello Concerts by Stingray - DE</title>
-        <desc>Qello Concerts by Stingray - DE</desc>
+    <programme start="20251025223501 +0200" stop="20251025233500 +0200" channel="deluxe-lounge-hd">
+        <title>Dark Lounge</title>
+        <desc>Deluxe Lounge - the relaxed sound for a good feeling. Your time, your break: to come down, take a deep breath and take a break. Urbanauts, lounge lizards meet lounge-like tracks and smooth bar-grooves - the lounge mix. Head off, music on!.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023220212 +0200" stop="20251023230211 +0200" channel="qello-concerts-by-stingray">
@@ -9057,6 +9027,11 @@
         <icon src="" />
     </programme>
     <programme start="20251025210212 +0200" stop="20251025220211 +0200" channel="qello-concerts-by-stingray">
+        <title>Qello Concerts by Stingray - DE</title>
+        <desc>Qello Concerts by Stingray - DE</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025220212 +0200" stop="20251025230211 +0200" channel="qello-concerts-by-stingray">
         <title>Qello Concerts by Stingray - DE</title>
         <desc>Qello Concerts by Stingray - DE</desc>
         <icon src="" />
@@ -9301,11 +9276,6 @@
         <desc>24 ore su 24 tutta la musica italiana di tendenza</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220000 +0200" stop="20251023225959 +0200" channel="qwest-tv">
-        <title>Qwest TV</title>
-        <desc />
-        <icon src="" />
-    </programme>
     <programme start="20251023230000 +0200" stop="20251023235959 +0200" channel="qwest-tv">
         <title>Qwest TV</title>
         <desc />
@@ -9541,14 +9511,9 @@
         <desc />
         <icon src="" />
     </programme>
-    <programme start="20251023213301 +0200" stop="20251023220500 +0200" channel="gambero-rosso">
-        <title>Viaggio in Oltrepo'</title>
-        <desc>William Pregentelli alla scoperta dei territori dell'Oltrepo' tra cantine e produttori di specialità tipiche.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023220501 +0200" stop="20251023223600 +0200" channel="gambero-rosso">
-        <title>Del pane non butto via niente</title>
-        <desc>Pane ai cereali - Francesco prepara un pane ai cereali. Un pane con 7 farine diverse, lievito madre, 24 ore di lievitazione in massa e 3 in forma. Cottura rigorosamente a legna. Con questo pane Peppe realizzerà diversi tipi di pizza</desc>
+    <programme start="20251025220000 +0200" stop="20251025225959 +0200" channel="qwest-tv">
+        <title>Qwest TV</title>
+        <desc />
         <icon src="" />
     </programme>
     <programme start="20251023223701 +0200" stop="20251023230700 +0200" channel="gambero-rosso">
@@ -10031,14 +9996,14 @@
         <desc>Orotelli - Terra d’oro. Una terra ricca di tradizioni e di artigiani, di pascoli e di casari.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213454 +0200" stop="20251023220453 +0200" channel="gusto-tv-new">
-        <title>A is for Apple</title>
-        <desc>After picking the letter "L," Chef Robert Jewell takes on lamb and licorice in this ingredient challenge. He starts with aromatic Moroccan lamb riblets, an appetizer that will make you want this spicy dish as your main course too. Next, Robert takes it up a notch by showing us how to make licorice - yes, the candy! He brings coconut oil, brown sugar, creamed coconut, and molasses to boil before skillfully adding flour and anise to make sweet, chewy coconut licorice. Finally, Robert concocts the perfect recipe that combines succulent lamb with sweet licorice.</desc>
+    <programme start="20251025220601 +0200" stop="20251025223800 +0200" channel="gambero-rosso">
+        <title>Vio's cooking</title>
+        <desc>L'arte della tavola e i consigli di Violante per accogliere gli ospiti. Come apparecchiare, in modo impeccabile, in ogni occasione. Piatti, ricette e molto altro.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220459 +0200" stop="20251023223444 +0200" channel="gusto-tv-new">
-        <title>A is for Apple</title>
-        <desc>Host Theresa Visintin creates savoury meals in this letter "R" challenge featuring radicchios and raisins. First, Theresa chops up bold and bitter radicchios, grilling them until the edges are a crispy golden brown and perfect for a warm wedge salad. Then, she tosses fried pancetta and earthy portobello mushrooms in a luxurious champagne vinegar and pours it over the crispy radicchio. Theresa tops this warm salad with creamy crumbled goat's cheese. For her next dish, Theresa prepares a rum raisin sauce using golden sultana raisins, dark rum, and fresh orange. Theresa pours the sauce over succulent ham. Is your mouth watering yet? Finally, Theresa combines radicchio and raisin into a...</desc>
+    <programme start="20251025223901 +0200" stop="20251025230800 +0200" channel="gambero-rosso">
+        <title>Odissea nelle spezie</title>
+        <desc>Jinny e Franco due mondi che si incontrano e che hanno in comune una grande passione: le spezie. Cardamomo, zenzero, cannella, cumino, un universo esoterico di colori, aromi, storie e ricette.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223450 +0200" stop="20251023230001 +0200" channel="gusto-tv-new">
@@ -10486,6 +10451,16 @@
         <desc>Small, fancy, and super scrumptious, host Jessica McGovern shows us how to make glorious desserts that you can eat with your fingers!</desc>
         <icon src="" />
     </programme>
+    <programme start="20251025220006 +0200" stop="20251025223000 +0200" channel="gusto-tv-new">
+        <title>Flour Power</title>
+        <desc>Warm host Jessica McGovern offers up some do-it-yourself recipes that will spice up any wedding.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025223006 +0200" stop="20251025230001 +0200" channel="gusto-tv-new">
+        <title>Flour Power</title>
+        <desc>Talented baker Jessica McGovern takes us around the world with diverse desserts from countries like Japan and Germany.</desc>
+        <icon src="" />
+    </programme>
     <programme start="20251023080001 +0200" stop="20251024030000 +0200" channel="daystar-eng">
         <title>Ministry Now</title>
         <desc>Reggie Dabbs shares his journey from abandonment to discovering unconditional love through his adoptive parents to inspire today's generation.</desc>
@@ -10881,9 +10856,14 @@
         <desc>Watch Rick Renner's in-depth, engaging Bible teaching, using the Greek text to help listeners gain new insight from God's Word.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213001 +0200" stop="20251023220000 +0200" channel="daystar-spa">
-        <title>Joni Table Talk</title>
-        <desc>Jeremiah Johnson nos comparte desde su nuevo libro, "Secrets to Stewarding God's Voice in a New Era" (Secretos para Ser Mayordomos de la Voz de Dios).</desc>
+    <programme start="20251025220001 +0200" stop="20251025223000 +0200" channel="daystar-eng">
+        <title>Kenneth W. Hagin</title>
+        <desc>Pastor Kenneth Hagin presents viewers and congregants with an inspired message and music from Rhema Bible Church in Tulsa, Oklahoma.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025223001 +0200" stop="20251025230000 +0200" channel="daystar-eng">
+        <title>PSB Prophetic Sound Broadcast with Shawn Baker</title>
+        <desc>Pastor Shawn Baker challenges any and all to get closer to God and to learn how to embrace the life that He has prepared for every single person.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023220001 +0200" stop="20251023230000 +0200" channel="daystar-spa">
@@ -11301,9 +11281,14 @@
         <desc>Dr. Michael Youssef, fundador de la Iglesia de los Apósteles en Atlanta, Georgia, entrega un mensaje poderoso e inspirador sobre la palabra de Dios.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023215901 +0200" stop="20251023225900 +0200" channel="stingray-naturescape">
-        <title>Islands of Paradise</title>
-        <desc>The beautiful Yasawa islands of Fiji.</desc>
+    <programme start="20251025220001 +0200" stop="20251025223000 +0200" channel="daystar-spa">
+        <title>A Toda Luz</title>
+        <desc>¿Te falta ánimo o quieres crecer en tu fe? A Toda Luz te ofrece risas, verdad y esperanza con voces dinámicas y temas que te inspiran y te acercan a Dios.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025223001 +0200" stop="20251025230000 +0200" channel="daystar-spa">
+        <title>Aqua viva con Sergio Hornung</title>
+        <desc>Aqua Viva presenta al Pastor Sergio Hornung cada semana compartiendo un mensaje cargado de fe, vision y herramientas practicas.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023225901 +0200" stop="20251023235900 +0200" channel="stingray-naturescape">
@@ -11546,14 +11531,9 @@
         <desc>The shores of the iconic Baker Beach in San Francisco with a sunset scene filmed in high definition. Views of the Marin headlands and the Golden Gate bridge.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213027 +0200" stop="20251023220021 +0200" channel="travelxp-eng">
-        <title>Backpack</title>
-        <desc>Our host travels to Sintra, known for its castles and palaces. Learning and exploring about castles, he further travels to the historic town Obidos.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023220027 +0200" stop="20251023223021 +0200" channel="travelxp-eng">
-        <title>Travel Diaries of Rohan and Healer</title>
-        <desc>Rohan and his furry friend, Healer, lose themselves in the English charm of the misty hamlet of Landour.</desc>
+    <programme start="20251025225901 +0200" stop="20251025235900 +0200" channel="stingray-naturescape">
+        <title>Rainbow Reef Relaxation 2</title>
+        <desc>Vibrant underwater reefs, including many scenes which no longer look as depicted due to coral bleaching.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223028 +0200" stop="20251023230021 +0200" channel="travelxp-eng">
@@ -12031,14 +12011,14 @@
         <desc>Stockholm, the capital and largest city of Sweden, was built on 14 Islands. This place is also sometimes referred as Venice of the north.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023215422 +0200" stop="20251023222519 +0200" channel="brindiamo">
-        <title>Brindiamo! With Ornella Fado</title>
-        <desc>Ornella si trova a Roma e visita il Pagliaccio ristorante, 2 stelle Michelin di Anthony Genovese. Chef Genovese prepara dei piatti raffinati e si racconta in un' intervista. La puntata ha anche come protagonista il maestro Marco Lo Russo, fisarmonicista di fama internazionale, che fa da colonna sonora all'intera puntata.</desc>
+    <programme start="20251025220031 +0200" stop="20251025223025 +0200" channel="travelxp-eng">
+        <title>City Breaks</title>
+        <desc>This exhilarating city of castles, beer and segway rides can take you on a break that will truly leave you catching your breath.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023222520 +0200" stop="20251023225617 +0200" channel="brindiamo">
-        <title>Brindiamo! With Ornella Fado</title>
-        <desc>Ornella Fado si trova a Roma e visita nel cuore di Roma a Piazza Navona il ristorante stellato "Il Convivio di Troiani" dello Chef Massimo Troiani. Insieme allo Chef Daniele Lippi cucinano dei piatti gustosi, quanto raffinati. Ornella intervista Massimo Troiani e partecipa come "USA Ambassador " alla serata di gala "Eccellenze Italiane" presso "La Pergola" dei Cavalieri Hilton, intervistando Il re degli Chef Heniz Beck.</desc>
+    <programme start="20251025223032 +0200" stop="20251025230026 +0200" channel="travelxp-eng">
+        <title>Backpack Serbia</title>
+        <desc>Visit Belgrade, with Heather as she explores the city, its architecture and learns about its past by visiting historical monuments.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023225618 +0200" stop="20251023232504 +0200" channel="brindiamo">
@@ -12501,6 +12481,16 @@
         <desc>Ornella Fado si trova nel cuore di New York e visita una pizzeria super chic dal nome PizzArte. Oltre a preparare delle fantastiche pizze, con il pizzaiolo appena arrivato dall' italia, Ornella e lo chef preparano anche alcuni piatti tradizionali campani.Ornella intervista il proprietario del ristorante, l'avvocato Bruno Cilio appassionato di cucina e di arte.(2013)</desc>
         <icon src="" />
     </programme>
+    <programme start="20251025221555 +0200" stop="20251025224723 +0200" channel="brindiamo">
+        <title>Eccellenze Italiane con Piero Muscari intervista a Heinz Beck</title>
+        <desc>Piero Muscari intervista Cesare Berlingeri, noto artista contemporaneo italiano. Cesare illustra l'importanza della sua arte e cosa vuole esprimere con la tecnica dei quadri piegati.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025224724 +0200" stop="20251025231612 +0200" channel="brindiamo">
+        <title>Eccellenze Italiane con Piero Muscari intervista a Heinz Beck</title>
+        <desc>Piero Muscari intervista Alberto Biasi, famoso artista italiano. Alberto racconta delle esperienze della sua infanzia e come queste hanno influenzato le sue opere e la sua arte.</desc>
+        <icon src="" />
+    </programme>
     <programme start="20251023212935 +0200" stop="20251023231915 +0200" channel="per-caso-tv">
         <title>Velisti per caso</title>
         <desc>Velisti per caso - Giro del mondo in 80 persone (Ritorno) Ep8 - Adriatica dalle Maldive naviga verso il Mar Rosso, Patrizio e David Riondino la aspettano nello Yemen dove fanno un bel viaggio con Marco Livadiotti, guida di Pasolini a San’a. Syusy intanto precedete tutti in Egitto, al Cairo.</desc>
@@ -12791,14 +12781,14 @@
         <desc>Campania Divina - In Campania, nei luoghi del mito sulle tracce del divino femminile tra Capua, Caserta e Pagani, passando da una social street nel cuore di Napoli...</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213001 +0200" stop="20251023220000 +0200" channel="the-design-network-new">
-        <title>The Principles of Space Planning</title>
-        <desc>Designer Julie Couch breaks down the basic formulas for successful design.</desc>
+    <programme start="20251025221005 +0200" stop="20251025223547 +0200" channel="per-caso-tv">
+        <title>In viaggio con mia figlia</title>
+        <desc>Montecatini e Siena - In Toscana, fra suggestioni etrusche e medicee, Syusy e Zoe visiteranno Montecatini, il Chianti, Siena. Viaggiando sulla loro auto elettrica, scoprono splendidi paesaggi e perle culturali, sempre alla ricerca di un nuovo stile di vita che vada in direzione dell'etica e della sostenibilità ambientale.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220001 +0200" stop="20251023223000 +0200" channel="the-design-network-new">
-        <title>Erin + Jesse: An Attic Transformed</title>
-        <desc>Armed with fresh ideas, Charli and Kylie turn a forgotten attic into a welcoming flex room.</desc>
+    <programme start="20251025223553 +0200" stop="20251025230203 +0200" channel="per-caso-tv">
+        <title>In viaggio con mia figlia</title>
+        <desc>Agrigento e Noto - In Sicilia, fra siti archeologici testimoni di un grande passato e uno sguardo al futuro, che deve essere sostenibile dal punto di vista ambientale, ma anche sociale: un giro che toccherà Palermo, Sciacca, Agrigento, Favara e Noto.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223001 +0200" stop="20251023230000 +0200" channel="the-design-network-new">
@@ -13276,14 +13266,14 @@
         <desc>Jillian learns how history inspires the future, touring boundary-pushing homes with a modern twist.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213001 +0200" stop="20251023220000 +0200" channel="fashion-tv">
-        <title>FASHION EVOLUTION</title>
-        <desc>Trace style through time! FASHION EVOLUTION explores iconic eras, designer legacies, !and cultural shifts that shaped what we wear. Discover how fashion constantly reinvents itself.</desc>
+    <programme start="20251025220001 +0200" stop="20251025223000 +0200" channel="the-design-network-new">
+        <title>Trailblazing Treehouses / White Farmhouse, Black Cabin</title>
+        <desc>Levi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220001 +0200" stop="20251023223000 +0200" channel="fashion-tv">
-        <title>FASHION CODE</title>
-        <desc>Decode every trend! FASHION CODE reveals the hidden rules of style, from iconic designers to street style sensations. Learn to speak the language of fashion fluently!</desc>
+    <programme start="20251025223001 +0200" stop="20251025230000 +0200" channel="the-design-network-new">
+        <title>Southern Stays in the Trees / Tiny Treasures in the Round</title>
+        <desc>Levi Kelly explores tiny BNB's, from snow covered yurts to reimagined shipping containers.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223001 +0200" stop="20251023230000 +0200" channel="fashion-tv">
@@ -13761,9 +13751,14 @@
         <desc>Trace style through time! FASHION EVOLUTION explores iconic eras, designer legacies, !and cultural shifts that shaped what we wear. Discover how fashion constantly reinvents itself.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023211801 +0200" stop="20251023224900 +0200" channel="motoretro">
-        <title>mondiali trial assago 2008</title>
-        <desc>La gara svoltasi ad Assago nel 2008, appuntamento mondiale in Italia</desc>
+    <programme start="20251025220001 +0200" stop="20251025223000 +0200" channel="fashion-tv">
+        <title>FASHION CODE</title>
+        <desc>Decode every trend! FASHION CODE reveals the hidden rules of style, from iconic designers to street style sensations. Learn to speak the language of fashion fluently!</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025223001 +0200" stop="20251025230000 +0200" channel="fashion-tv">
+        <title>FASHION CODE</title>
+        <desc>Decode every trend! FASHION CODE reveals the hidden rules of style, from iconic designers to street style sensations. Learn to speak the language of fashion fluently!</desc>
         <icon src="" />
     </programme>
     <programme start="20251023225001 +0200" stop="20251023230300 +0200" channel="motoretro">
@@ -14126,14 +14121,14 @@
         <desc>Enduro oltre ogni limite! La partenza con centinaia di piloti, l' arrivo con meno di dieci</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213001 +0200" stop="20251023220000 +0200" channel="motorvision-tv">
-        <title>Buyer's Guide</title>
-        <desc>We look for a reliable vehicle under R230,000; bakkies from Toyota, Ford, Isuzu and Nissan go head to head; is a Jeep Wrangler a good used purchase?</desc>
+    <programme start="20251025221601 +0200" stop="20251025223000 +0200" channel="motoretro">
+        <title>vs comparativa sulla neve</title>
+        <desc>Sherco, Beta e Aprilia si affrontano su un percorso innevato e vengono messe a dura prova dai nostri tester</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220001 +0200" stop="20251023223000 +0200" channel="motorvision-tv">
-        <title>Sold in 60 Seconds</title>
-        <desc>Features a British sports cars classic, the Triumph TR6, going under the hammer.</desc>
+    <programme start="20251025223101 +0200" stop="20251025230600 +0200" channel="motoretro">
+        <title>OLD STOCK 2025 ROUND 1 GARA 1 INTERLAGOS</title>
+        <desc>In Brasile, sulla pista di interlagos, si sfidano le vecchie Chevriolet Opala in una gara avvincente. GARA 1</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223001 +0200" stop="20251023230000 +0200" channel="motorvision-tv">
@@ -14551,9 +14546,14 @@
         <desc>An event for automotive and motor sports enthusiasts where the most extreme vehicles can be seen.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023215353 +0200" stop="20251023222803 +0200" channel="red-bull-tv-en">
-        <title>Beyond the ROX</title>
-        <desc>Raw reactions show how what drives athletes is shared by their loved ones, and a wildcard shakes things up.</desc>
+    <programme start="20251025220001 +0200" stop="20251025223000 +0200" channel="motorvision-tv">
+        <title>Motorcycles</title>
+        <desc>A portrait of the driver and stuntman.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025223001 +0200" stop="20251025230000 +0200" channel="motorvision-tv">
+        <title>Motorcycles</title>
+        <desc>Touratech embarks on a journey to Mount Kailash, Tibet.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023222809 +0200" stop="20251023233533 +0200" channel="red-bull-tv-en">
@@ -14786,14 +14786,14 @@
         <desc>Urban legend no more, Sandro Dias sets two new world records skating a quarter pipe-shaped 22-storey building.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023215601 +0200" stop="20251023222900 +0200" channel="golf-tv">
-        <title>Magazine Golf Televison</title>
-        <desc>Scopri il mondo del golf a 360° con il magazine dedicato a tutti gli amanti di questo sport.</desc>
+    <programme start="20251025221223 +0200" stop="20251025224312 +0200" channel="red-bull-tv-en">
+        <title>PADEL: Premier Padel 2025 Buenos Aires P1 – Highlights</title>
+        <desc>Don’t miss the action of top players, fast moves and fierce matches in Argentina, a world padel leader.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023222901 +0200" stop="20251023225900 +0200" channel="golf-tv">
-        <title>Magazine Golf Televison</title>
-        <desc>Scopri il mondo del golf a 360° con il magazine dedicato a tutti gli amanti di questo sport.</desc>
+    <programme start="20251025224318 +0200" stop="20251025231402 +0200" channel="red-bull-tv-en">
+        <title>Premier Padel 2025 Bordeaux P2 Highlights</title>
+        <desc>Watch top players battle at the Bordeaux Premier Padel P2 tournament in France. Fast rallies and strong shots fill the ice rink. Who will claim victory in this fierce fight?</desc>
         <icon src="" />
     </programme>
     <programme start="20251023230001 +0200" stop="20251023233200 +0200" channel="golf-tv">
@@ -15491,14 +15491,14 @@
         <desc>Scopri il mondo del golf a 360° con il magazine dedicato a tutti gli amanti di questo sport.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023210001 +0200" stop="20251023220000 +0200" channel="racer-international">
-        <title>Prodigy Racing League</title>
-        <desc>Info not available</desc>
+    <programme start="20251025221701 +0200" stop="20251025224900 +0200" channel="golf-tv">
+        <title>Magazine Golf Televison</title>
+        <desc>Scopri il mondo del golf a 360° con il magazine dedicato a tutti gli amanti di questo sport.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220001 +0200" stop="20251023223000 +0200" channel="racer-international">
-        <title>Prodigy Racing League</title>
-        <desc>Info not available</desc>
+    <programme start="20251025224901 +0200" stop="20251025232200 +0200" channel="golf-tv">
+        <title>Magazine Golf Televison</title>
+        <desc>Scopri il mondo del golf a 360° con il magazine dedicato a tutti gli amanti di questo sport.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223001 +0200" stop="20251023233000 +0200" channel="racer-international">
@@ -15861,6 +15861,11 @@
         <desc>Specializing in muscle, classic and late model exotics, Vicari Auctions offer vehicles up for bid.</desc>
         <icon src="" />
     </programme>
+    <programme start="20251025220001 +0200" stop="20251025230000 +0200" channel="racer-international">
+        <title>Vicari Auction Show: Vintage Chevrolets and a Barracuda</title>
+        <desc>Bidders vie for classics, including vintage Chevrolets and a Barracuda with a monster Hemi engine.</desc>
+        <icon src="" />
+    </programme>
     <programme start="20251023194451 +0200" stop="20251023232355 +0200" channel="motorsport-tv-en">
         <title>Porsche Cup Brasil 2025 | Round 7: Estoril - Endurance Race (EN)</title>
         <desc>Watch the endurance race of the seventh round of the 2025 Porsche Carrera Cup Brasil season at Autódromo do Estoril.</desc>
@@ -16011,14 +16016,9 @@
         <desc>Welcome to Motorsport.tv! Your home for all the best motor racing content, both live and on demand. We cover races from around the world, from four wheels and two wheels.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023211341 +0200" stop="20251023221247 +0200" channel="pfl-mma">
-        <title>2024 PFL MENA Championship Cutdown</title>
-        <desc>Highlight version of the 2024 PFL MENA Championships</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023221254 +0200" stop="20251023223539 +0200" channel="pfl-mma">
-        <title>Full Fights: Justin Gaethje</title>
-        <desc>In a back and forth 3 round bout, undefeated lightweight prospect Justin Gaethje (8-0) takes on MMA veteran Brian Cobb (20-7) at WSOF 3, 2013.</desc>
+    <programme start="20251025220006 +0200" stop="20251026000000 +0200" channel="motorsport-tv-en">
+        <title>Motorsport.tv</title>
+        <desc>Welcome to Motorsport.tv! Your home for all the best motor racing content, both live and on demand. We cover races from around the world, from four wheels and two wheels.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223545 +0200" stop="20251023233714 +0200" channel="pfl-mma">
@@ -16401,11 +16401,6 @@
         <desc>Studio in diretta per seguire la partite di Serie A delle ore 20,45 Cremonese-Atalanta</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023210001 +0200" stop="20251023220000 +0200" channel="world-poker-tour">
-        <title>World Poker Tour: Season 1</title>
-        <desc>World Poker Tour: Season 1</desc>
-        <icon src="" />
-    </programme>
     <programme start="20251023220001 +0200" stop="20251024000000 +0200" channel="world-poker-tour">
         <title>World Poker Tour</title>
         <desc>Two reckless young pros challenge two experienced poker veterans and a tax adviser at Foxwoods.</desc>
@@ -16601,6 +16596,11 @@
         <desc>A Harvard Law graduate and a Las Vegas millionaire compete with poker experts at the Commerce Casino in Los Angeles.</desc>
         <icon src="" />
     </programme>
+    <programme start="20251025220001 +0200" stop="20251026000000 +0200" channel="world-poker-tour">
+        <title>World Poker Tour 2</title>
+        <desc>World Poker Tour 2</desc>
+        <icon src="" />
+    </programme>
     <programme start="20251023201716 +0200" stop="20251024003043 +0200" channel="glory-kickboxing">
         <title>GLORY Kickboxing</title>
         <desc>GLORY 85 will feature the four-man heavyweight tournament featuring two-time tournament finalist Jahfarr Wilnis (33-13-1, 8 KO), Heavyweight newcomer Murat Aygun (33-3-0), Nigerian giant Tariq ‘Cookie’ Osaro (22-2-1), and ‘The Iron Bull’ Enver Sljivar (40-6, 23 KO). A kickboxing legend will also make his return on April 29 as former two-time GLORY champion Murthel Groenhart (69-25-3, 40 KO) challenges current welterweight champion Endy Semeleer (33-1, 17 KO) for the title.</desc>
@@ -16651,9 +16651,9 @@
         <desc>Former Light Heavyweight Champion Tarik Khbabez (52-12-1, 22 KO) and Bahram Rajabzabeh (72-5, 63 KO) collide in a huge showdown for the vacant Light Heavyweight title. The penultimate round of the Last Heavyweight Standing tournament resumes with eight heavyweights competing in two separate four-man one-night tournaments. Notable participants include Levi Rigters (20-3, 10 KO), Nabil Khachab (30-6-1, 4 KO), Rade Opacic (22-7, 17 KO) and Milos Cvjeticanin (14-4, 9 KO).</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023215532 +0200" stop="20251023225839 +0200" channel="hard-knocks-fighting-championship">
-        <title>Fight Vault - HK26 - Episode 1</title>
-        <desc>The School of Hard Knocks 26 filmed at the Art Hauser Centre in Prince Albert. Professional and Amateur fighters from across North America battle it out in the cage. Matthew Fiddler vs. Dave Sternberg; Greg Alberts vs. James Sanderson; Mike Geib vs. Jordan O'Connor; Patrick Ward vs. Jeremy Kennedy [title fight].</desc>
+    <programme start="20251025220656 +0200" stop="20251026024938 +0100" channel="glory-kickboxing">
+        <title>GLORY Kickboxing</title>
+        <desc>Former Light Heavyweight Champion Tarik Khbabez (52-12-1, 22 KO) and Bahram Rajabzabeh (72-5, 63 KO) collide in a huge showdown for the vacant Light Heavyweight title. The penultimate round of the Last Heavyweight Standing tournament resumes with eight heavyweights competing in two separate four-man one-night tournaments. Notable participants include Levi Rigters (20-3, 10 KO), Nabil Khachab (30-6-1, 4 KO), Rade Opacic (22-7, 17 KO) and Milos Cvjeticanin (14-4, 9 KO).</desc>
         <icon src="" />
     </programme>
     <programme start="20251023225840 +0200" stop="20251023235915 +0200" channel="hard-knocks-fighting-championship">
@@ -17071,9 +17071,9 @@
         <desc>Get ready for HK51 by watching Mississippi native Adrian Miles' last HK fight, an epic battle with UFC alum Rodney Wallace. He's getting ready to face Miles Anstead on October 14!</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023210315 +0200" stop="20251023220110 +0200" channel="billiards-tv">
-        <title>VEGHEL World Cup 3-Cushion 2023</title>
-        <desc>Watch Quals - Jerome BARBEILLON (FRA) vs Chang Hoon SEO (KOR) at the [VEGHEL World Cup 3-Cushion 2023 ]  | English commentary</desc>
+    <programme start="20251025225534 +0200" stop="20251025235336 +0200" channel="hard-knocks-fighting-championship">
+        <title>Fight Vault - HK30 - Episode 2</title>
+        <desc>The School of Hard Knocks 30 filmed at the Century Casino in Calgary. Professional and Amateur fighters from across North America battle it out in the cage. Louie Grover vs. Blake Sigvaldason; Dale Tallman vs. Des Ryland; Zach Snider vs. Randy Chung [title fight].</desc>
         <icon src="" />
     </programme>
     <programme start="20251023220116 +0200" stop="20251023233513 +0200" channel="billiards-tv">
@@ -17229,16 +17229,6 @@
     <programme start="20251025213254 +0200" stop="20251025233156 +0200" channel="billiards-tv">
         <title>WC 3-Cushion National Teams 2023 in Viersen</title>
         <desc>Watch Quarter Final - Dick JASPERS (NED) vs Haeng Jik KIM (KOR) at the [WC 3-Cushion National Teams 2023 in Viersen] | EN Commentary</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023213001 +0200" stop="20251023220000 +0200" channel="fuel-tv-new">
-        <title>Monster Army Unleashed - Monster Army Movie 5</title>
-        <desc>Info not available</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023220001 +0200" stop="20251023223000 +0200" channel="fuel-tv-new">
-        <title>Relentless</title>
-        <desc>From near-fatal wipeout to recovery, Relentless shows Dusty Payne's unbreakable passion for surf.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223001 +0200" stop="20251023230000 +0200" channel="fuel-tv-new">
@@ -17691,9 +17681,9 @@
         <desc>Six days of epic mountain biking in Madeira, from lush forests to volcanic trails and thrills.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213001 +0200" stop="20251023223412 +0200" channel="inter-24-7-ita">
-        <title>Serie A Cagliari-Inter 2025/2026 - 1T</title>
-        <desc>Rivivi la partita di Serie A Cagliari-Inter della stagione 2025/2026</desc>
+    <programme start="20251025221001 +0200" stop="20251025230000 +0200" channel="fuel-tv-new">
+        <title>REMOTE: The Lost Footage</title>
+        <desc>The "Morning of the Earth" remastering uncovers 90 mins of never before seen footage.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223413 +0200" stop="20251023233803 +0200" channel="inter-24-7-ita">
@@ -18066,9 +18056,9 @@
         <desc>Rivivi la partita di Champions League Ajax-Inter della stagione 2025/2026</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023215420 +0200" stop="20251023223356 +0200" channel="fifa-plus-it-new">
-        <title>FACTS: Argentina - Paesi Bassi | Argentina 1978</title>
-        <desc>L’Argentina ha la meglio sui Paesi Bassi in una sfida ad altissima intensità a Buenos Aires.</desc>
+    <programme start="20251025223523 +0200" stop="20251025234033 +0200" channel="inter-24-7-ita">
+        <title>Champions League Ajax-Inter 2025/2026 - 2T</title>
+        <desc>Rivivi la partita di Champions League Ajax-Inter della stagione 2025/2026</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223403 +0200" stop="20251024005718 +0200" channel="fifa-plus-it-new">
@@ -18306,9 +18296,9 @@
         <desc>Guarda la partita tra Nuova Zelanda e Zambia giocato al Accademia di Calcio Mohammed VI (Campo 2), Salé il sabato 25 ottobre 2025 alle 20:00 (ora locale).</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220000 +0200" stop="20251023225959 +0200" channel="top-barca-eng">
-        <title>TOP Barça</title>
-        <desc />
+    <programme start="20251025224637 +0200" stop="20251026012044 +0200" channel="fifa-plus-it-new">
+        <title>Brasile-Italia | Finale | Coppa del Mondo FIFA USA 1994 | Match completo</title>
+        <desc>Guarda il match completo tra Brasile e Italia, giocato al Rose Bowl di Pasadena, domenica 17 luglio 1994.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023230000 +0200" stop="20251023235959 +0200" channel="top-barca-eng">
@@ -18546,14 +18536,9 @@
         <desc />
         <icon src="" />
     </programme>
-    <programme start="20251023214124 +0200" stop="20251023221319 +0200" channel="jukin-fail-army-new">
-        <title>FailFactory</title>
-        <desc>Get your fails well done in this episode featuring food and cooking.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023221325 +0200" stop="20251023224520 +0200" channel="jukin-fail-army-new">
-        <title>FailFactory</title>
-        <desc>Everybody hurts in this episode of failure.</desc>
+    <programme start="20251025220000 +0200" stop="20251025225959 +0200" channel="top-barca-eng">
+        <title>TOP Barça</title>
+        <desc />
         <icon src="" />
     </programme>
     <programme start="20251023224526 +0200" stop="20251023231720 +0200" channel="jukin-fail-army-new">
@@ -19011,6 +18996,16 @@
         <desc>Chaos Unleashed: Humans versus their fur-ever friends in a battle of wits and 'purr'-sonality clashes!</desc>
         <icon src="" />
     </programme>
+    <programme start="20251025222334 +0200" stop="20251025225428 +0200" channel="jukin-fail-army-new">
+        <title>Humans VS. Everything</title>
+        <desc>Mother nature always runs on her own agenda. Careful, this episode might blow you away!</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025225434 +0200" stop="20251025232528 +0200" channel="jukin-fail-army-new">
+        <title>Humans VS. Everything</title>
+        <desc>Travel turmoil! Get ready to watch humans navigate hilarious mishaps with all kinds of transportation!</desc>
+        <icon src="" />
+    </programme>
     <programme start="20251023214506 +0200" stop="20251023233000 +0200" channel="revry">
         <title>Trick</title>
         <desc>The misadventures of two young gay men, trying to find a place to be alone, one night in Manhattan.</desc>
@@ -19201,9 +19196,14 @@
         <desc>Saffron is shaken up by a surprise encounter with Larissa.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023210006 +0200" stop="20251023220000 +0200" channel="people-are-awesome-new">
-        <title>People Are Awesome</title>
-        <desc>Discover, achieve, level up. We’re here to show you that anyone can do extraordinary things.</desc>
+    <programme start="20251025220506 +0200" stop="20251025223000 +0200" channel="revry">
+        <title>Flunk</title>
+        <desc>Astrid surrenders to a career she hates. Saffron makes a shocking admission to Heidi.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025223006 +0200" stop="20251025230000 +0200" channel="revry">
+        <title>Flunk</title>
+        <desc>The gang await their exam results. Will Saffron move to Queensland to be with Heidi?</desc>
         <icon src="" />
     </programme>
     <programme start="20251023220006 +0200" stop="20251023230000 +0200" channel="people-are-awesome-new">
@@ -19446,14 +19446,9 @@
         <desc>Discover, achieve, level up. We’re here to show you that anyone can do extraordinary things.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023214430 +0200" stop="20251023221524 +0200" channel="the-pet-collective-new">
-        <title>Dr. Phur</title>
-        <desc>Pets cautiously investigating strange new objects, from buzzing drones to weird appliances!</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023221530 +0200" stop="20251023224724 +0200" channel="the-pet-collective-new">
-        <title>Animals Unscripted</title>
-        <desc>Check out our some of our favorite lil' bandits.</desc>
+    <programme start="20251025220006 +0200" stop="20251025230000 +0200" channel="people-are-awesome-new">
+        <title>People Are Awesome</title>
+        <desc>Discover, achieve, level up. We’re here to show you that anyone can do extraordinary things.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023224730 +0200" stop="20251023231924 +0200" channel="the-pet-collective-new">
@@ -19906,14 +19901,14 @@
         <desc>Bears, bunnies, babies, puppies, lizards, and more!</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023214407 +0200" stop="20251023221510 +0200" channel="mr-bean-live-action">
-        <title>Mr Bean Live Action</title>
-        <desc>Mr Bean hosts a New Year's Eve party.</desc>
+    <programme start="20251025220031 +0200" stop="20251025223125 +0200" channel="the-pet-collective-new">
+        <title>We Heart Animals</title>
+        <desc>The leaves are changing, sweater weather is approaching, and the pets couldn't be happier!</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023221511 +0200" stop="20251023224342 +0200" channel="mr-bean-live-action">
-        <title>Mr Bean Live Action</title>
-        <desc>Mr Bean goes back to school.</desc>
+    <programme start="20251025223131 +0200" stop="20251025230325 +0200" channel="the-pet-collective-new">
+        <title>We Heart Animals</title>
+        <desc>We couldn't come up with a clever title for this one, but these pets are still cute AF.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023224343 +0200" stop="20251023231441 +0200" channel="mr-bean-live-action">
@@ -20391,24 +20386,14 @@
         <desc>Mr Bean treats himself to a weekend at a posh hotel.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023215917 +0200" stop="20251023221228 +0200" channel="mr-bean-it">
-        <title>La mosca</title>
-        <desc>Mr. Bean dichiara guerra a una mosca.</desc>
+    <programme start="20251025222513 +0200" stop="20251025225336 +0200" channel="mr-bean-live-action">
+        <title>Mr Bean Live Action</title>
+        <desc>Mr Bean goes to the funfair.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023221229 +0200" stop="20251023222528 +0200" channel="mr-bean-it">
-        <title>Hotel Bean</title>
-        <desc>Mr Bean vorrebbe uno smartphone ma perche' spendere soldi quando puoi costruirtene uno da solo?</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023222529 +0200" stop="20251023223840 +0200" channel="mr-bean-it">
-        <title>Al ladro, al ladro!</title>
-        <desc>Un'opera d'arte e' stata rubata e il detective Mr.Bean si mette sulle sue tracce.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023223841 +0200" stop="20251023225140 +0200" channel="mr-bean-it">
-        <title>Il robot</title>
-        <desc>Mr Bean si fa prendere troppo la mano dalle pulizie di casa e finisce col gettare nella spazzatura anche Teddy!</desc>
+    <programme start="20251025225337 +0200" stop="20251025232440 +0200" channel="mr-bean-live-action">
+        <title>Mr Bean Live Action</title>
+        <desc>Mr Bean hosts a New Year's Eve party.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023225141 +0200" stop="20251023230440 +0200" channel="mr-bean-it">
@@ -21491,14 +21476,29 @@
         <desc>Dei turisti giapponesi scambiano la casa di Mr Bean per un albergo.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023215740 +0200" stop="20251023222323 +0200" channel="yu-gi-oh-new-ita">
-        <title>Lo scontro finale prosegue</title>
-        <desc>Marik dimostra che il suo Drago Alato di Ra è la carta Divinità Egizia più forte distruggendo Slifer il Drago del Cielo! Nessuna delle carte di Yugi può resistere ai suoi attacchi incessanti, ma un regalo di Kaiba potrebbe essere la chiave per reagire…</desc>
+    <programme start="20251025220144 +0200" stop="20251025221442 +0200" channel="mr-bean-it">
+        <title>Le cure di Mr. Bean</title>
+        <desc>Mr Bean non crede ai suoi occhi quando si imbatte in un dinosauro nel bel mezzo della campagna inglese.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023222324 +0200" stop="20251023224905 +0200" channel="yu-gi-oh-new-ita">
-        <title>I ricordi di Marik</title>
-        <desc>È Obelisk il Tormentatore contro... Obelisk il Tormentatore? Yugi non riesce a scalfire i punti vita di Marik perché l'indistruttibile Poltiglia Divinità Egizia di Marik resuscita a ogni turno!</desc>
+    <programme start="20251025221443 +0200" stop="20251025222742 +0200" channel="mr-bean-it">
+        <title>Mr Bean all'opera</title>
+        <desc>Mister Bean ha involontariamente provocato un incidente: Mrs Wicket e' stata in ospedale ed ora deve riposare. A casa, Bean si occupa amorevolmente di lei.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025222743 +0200" stop="20251025224042 +0200" channel="mr-bean-it">
+        <title>Mr Bean Tassista</title>
+        <desc>Mr Bean viene scambiato per la star di uno spettacolo e finisce per esibirsi all'Opera.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025224043 +0200" stop="20251025225341 +0200" channel="mr-bean-it">
+        <title>Il pallone gonfiato</title>
+        <desc>Dopo essere rimasto bloccato in un taxi Mr Bean si improvvisa tassista e si diverte un mondo.</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025225342 +0200" stop="20251025230641 +0200" channel="mr-bean-it">
+        <title>Un nuovo amico</title>
+        <desc>Mr Bean vuole diventare muscoloso per piacere ad Irma. Per farlo utilizza una scorciatoia.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023224906 +0200" stop="20251023231443 +0200" channel="yu-gi-oh-new-ita">
@@ -22081,14 +22081,14 @@
         <desc>Noah dà ai Big 5 un'ultima chance per redimersi in un duello cinque contro due in cui Yugi e Joey affrontano i Big Five tutti insieme!</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213001 +0200" stop="20251023220000 +0200" channel="inuyasha">
-        <title>S2E18 - La pericolosa spada di Kaijimbo</title>
-        <desc>Raggiunto il luogo del combattimento tra Goshinki e Inuyasha, Sesshomaru recupera la testa del demone sconfitto e la porta da Kaijimbo, fabbro costruttore di spade un tempo ripudiato dal maestro Totosai a causa della sua propensione al male. L'intenzione di Sesshomaru è quella di ottenere una spada forgiata dalle zanne di Goshinki.</desc>
+    <programme start="20251025221219 +0200" stop="20251025223802 +0200" channel="yu-gi-oh-new-ita">
+        <title>Gioco d'astuzia</title>
+        <desc>I Big Five concentrano i propri attacchi su Joey sperando di metterlo KO, così Yugi sarebbe costretto a duellare da solo contro tutta la loro formidabile potenza!</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220001 +0200" stop="20251023223000 +0200" channel="inuyasha">
-        <title>S2E19 - Sesshomaru impugna Tokijin</title>
-        <desc>Completamente controllato dalla volontà della spada Tokijin, Kaijimbo sfida Inuyasha a duello, ma ben presto soccombe e muore, incapace di sopportare l'aura maligna della sua stessa spada. Nonostante la vittoria Inuyasha è ancora alle prese con l'impugnatura di Tessaiga, divenuta insopportabilmente pesante dopo la riparazione di Totosai.</desc>
+    <programme start="20251025223803 +0200" stop="20251025230356 +0200" channel="yu-gi-oh-new-ita">
+        <title>Due contro cinque</title>
+        <desc>I Big Five evocano un drago potentissimo che ha già sconfitto Joey, Mai e Mokuba in un mondo virtuale alternativo!</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223001 +0200" stop="20251023230000 +0200" channel="inuyasha">
@@ -22566,19 +22566,14 @@
         <desc>Inuyasha brama di raggiungere al più presto Naraku e compiere la sua vendetta; tuttavia Sango, l'unica persona che conosceva il nascondiglio del perfido demone, ha misteriosamente rimosso il ricordo. La giovane superstite della Brigata decide di svelare a Inuyasha e ai suoi compagni di viaggio il segreto della Sfera dei Quattro Spiriti.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213945 +0200" stop="20251023220442 +0200" channel="inazuma-eleven-go">
-        <title>Inazuma Eleven</title>
-        <desc>Schiller accusa la Raimon di aver sacrificato i membri più deboli della squadra pur di competere alla pari con la Alius Academy. Infuriato per queste parole, Mark perde la testa: smette di giocare al servizio del collettivo e si ostina a tentare giocate inutili.Per fortuna Aqulina riesce a farlo ragionare e nel secondo tempo il capitano recupera la lucidità e guida la sua squadra alla riscossa. I nostri eroi ottengono di nuovo il pareggio. Sorpreso dalla tenacia della Raimon, e deciso a tutto pur di ottenere la vittoria, Schiller ordina ai suoi di disinserire gli inibitori. Il dispositivo consente a un essere umano di sopprimere l'istinto di conservazione, che gli impedisce di spingere il...</desc>
+    <programme start="20251025220001 +0200" stop="20251025223000 +0200" channel="inuyasha">
+        <title>S2E1 - La divinità dell'acqua che domina il Lago Oscuro</title>
+        <desc>Inuyasha e il suo gruppo riprendono il cammino, quando si imbattono in un corteo sacrificale in procinto di offrire una vittima a una misteriosa divinità dell'acqua. Dopo aver scoperto che la vittima sacrificale è un bambino, decidono di aiutare gli abitanti a liberarsi della divinità crudele.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220448 +0200" stop="20251023222943 +0200" channel="inazuma-eleven-go">
-        <title>Inazuma Eleven</title>
-        <desc>Pur sentendosi sfruttati, Xene e Bellatrix non riescono ad odiare quello che considerano il loro padre. In realtà il signor Schiller è solo un padre adottivo. I giocatori della Genesis erano tutti ospiti di un orfanotrofio, e l'uomo se ne è preso cura sin da quando erano bambini. Era un modo per lenire il dolore per la scomparsa di Xavier, il suo vero figlio, morto in circostanze misteriose. Ma l'arrivo della pietra di Alius cambiò tutto. Accecato dal desiderio di vendetta, Schiller decise di sfruttare i poteri della pietra e di usare i suoi ragazzi come cavie umane. Ora però è sinceramente pentito. Ma non c'è tempo per recriminare. Un'esplosione scuote il campo: la Alius Academy sta...</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023222950 +0200" stop="20251023225445 +0200" channel="inazuma-eleven-go">
-        <title>Inazuma Eleven</title>
-        <desc>La Raimon viene sfidata da una squadra formata da Wyles. Ma quando i giocatori scoprono i propri volti, Mark e gli altri scoprono di essere di fronte ai loro vecchi compagni. Ora, però, sono molto diversi, e non ricordano nulla delle vecchie amicizie, poiché sono entrati in contatto con la pietra di Alius, che li ha resi più forti e cattivi.</desc>
+    <programme start="20251025223001 +0200" stop="20251025230000 +0200" channel="inuyasha">
+        <title>S2E2 - Una crudele trappola per Miroku</title>
+        <desc>Durante un maldestro tentativo di ottenere i favori di una ragazza, Miroku viene ferito alla mano destra da un demone-mantide che si nascondeva nel corpo di lei. Resosi conto della gravità del danno subito e del rischio che corre, il monaco si fa condurre dal fido Hachiemon dall'anziano monaco Mushin, suo padre putativo per farsi medicare la ferita.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023225451 +0200" stop="20251023231926 +0200" channel="inazuma-eleven-go">
@@ -23156,6 +23151,21 @@
         <desc>Inizia il ritiro della squadra e gli allenamenti con il nuovo coach, Travis si rivelano più duri del previsto e spesso le sue decisioni sembrano incomprensibili. Celia e Willy indagano sul conto del Mister e scoprono che in passato, egli veniva considerato maledetto. I sorteggi per il girone asiatico del Football Frontier Internazionale vedono la Nazionale Giapponese collocarsi nel primo gruppo, in cui dovrà affrontare i Big Waves, la nazionale australiana.</desc>
         <icon src="" />
     </programme>
+    <programme start="20251025220806 +0200" stop="20251025223421 +0200" channel="inazuma-eleven-go">
+        <title>Inazuma Eleven</title>
+        <desc>I ragazzi dell’Inazuma scoprono il loro primo avversario del torneo: gli australiani Big Waves. La squadra è considerata una delle migliori tra le 8 partecipanti alla fase preliminare asiatica. Ma i giocatori per il momento sono più preoccupati dagli strani metodi dell'allenatore Travis e dalle inquietanti voci che lo riguardano. A due giorni dalla partita di esordio, il tecnico proibisce categoricamente a Mark e compagni di allenarsi e li obbliga a rimanere confinati nel centro sportivo dove la squadra è in ritiro. Tra tutti Jude è quello che fa più fatica a digerire l'intransigenza dell'allenatore. Ma due giorni passano in fretta e arriva il giorno del match. Gli australiani si...</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025223427 +0200" stop="20251025225916 +0200" channel="inazuma-eleven-go">
+        <title>Inazuma Eleven</title>
+        <desc>Dopo aver stentato inizialmente contro la fortissima difesa australiana, i giocatori dell’Inazuma riescono ad avere la meglio sulla sofisticata tecnica speciale degli avversari. Merito dell’allenatore Travis: nei giorni precedenti l’incontro, imponendo ai ragazzi di restare nelle proprie camere, li ha obbligati ad allenarsi da soli e a migliorare la propria tecnica individuale. Ma molte altre scelte del tecnico si rivelano azzeccate. Prima di tutto l’inserimento dell’inesperto Austin. E poi l’intuizione che lo porta a spostare Hurley in attacco. E così Jude si rende conto che l’allenatore è tutt’altro che uno sprovveduto arrogante. In realtà le voci sulla presunta inaffidabilità di Travis...</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025225923 +0200" stop="20251025232410 +0200" channel="inazuma-eleven-go">
+        <title>Inazuma Eleven</title>
+        <desc>Mark, Silvia e Axel decidono di scoprire il motivo delle numerose assenze di Austin. Ben presto la ragione è chiara. Il ragazzo lavora nel ristorante della madre e la aiuta in tutto. Anzi, il locale si regge in gran parte sulle sue spalle. Nel frattempo la squadra conosce il prossimo avversario: i Leoni del Deserto, la rappresentativa del Qatar. Cresciuti sotto l’implacabile sole della penisola araba, e abituati a correre sulla sabbia, i mediorientali sono famosi per la loro incredibile resistenza alla fatica. Travis li teme molto. Eppure i giapponesi non sembrano avere problemi. Nonostante la grande intensità fisica dei contrasti, ben presto i ragazzi sono in vantaggio di due gol. Ma già...</desc>
+        <icon src="" />
+    </programme>
     <programme start="20251023215548 +0200" stop="20251023230625 +0200" channel="bbc-top-gear-it">
         <title>Episodio 7</title>
         <desc>Il trio si avventura nello Stato Shan, una zona afflitta da guerre civili e spesso chiusa alle TV occidentali.</desc>
@@ -23386,9 +23396,9 @@
         <desc>Il team di Top Gear intraprende un viaggio dal cuore della Bolivia fino alla costa del Cile.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023215151 +0200" stop="20251023223819 +0200" channel="rakuten-viki-new">
-        <title>1% of Something</title>
-        <desc>Da Hyeon attend Jae In's event and she meets Ju Hee, who was almost engaged with Jae In.</desc>
+    <programme start="20251025221437 +0200" stop="20251025233135 +0200" channel="bbc-top-gear-it">
+        <title>Episodio 7</title>
+        <desc>La squadra di Top Gear si scatena di nuovo negli USA, stavolta lungo un percorso sulla Costa Orientale.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223826 +0200" stop="20251023232551 +0200" channel="rakuten-viki-new">
@@ -23611,9 +23621,9 @@
         <desc>Kang San takes Dan Oh and the Summer Palace family to a hideout, but is worried about Jeong Yoo Ha.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213200 +0200" stop="20251023223131 +0200" channel="filmrise-highway-to-heaven-it">
-        <title>Autostop Per Il Cielo</title>
-        <desc>Jonathan e Mark convincono un ragazzo con la sindrome di Down a partecipare alle Olimpiadi speciali.</desc>
+    <programme start="20251025223213 +0200" stop="20251025234331 +0200" channel="rakuten-viki-new">
+        <title>The Secret Romantic Guesthouse</title>
+        <desc>Dan Oh, Kang San, and Kim Shi Yeol enter the palace and rescue Jeong Yoo Ha.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223132 +0200" stop="20251023233219 +0200" channel="filmrise-highway-to-heaven-it">
@@ -23856,9 +23866,9 @@
         <desc>Jonathan deve trovare un modo per aiutare Deke, una stella del football universitario i cui sogni di diventare un professionista sono infranti da un tragico incidente in moto.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023211442 +0200" stop="20251023221447 +0200" channel="bbc-drama-it">
-        <title>Episodio 3</title>
-        <desc>Boyd indaga sul caso di un teschio sepolto per 20 anni, portando alla luce segreti nascosti.</desc>
+    <programme start="20251025222027 +0200" stop="20251025231649 +0200" channel="filmrise-highway-to-heaven-it">
+        <title>Autostop Per Il Cielo</title>
+        <desc>Jonathan chiede l'aiuto di una ginnasta per riabilitare Deke. Nel frattempo, i genitori di Deke sono stati profondamente colpiti dall'incidente.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023221448 +0200" stop="20251023231517 +0200" channel="bbc-drama-it">
@@ -24106,14 +24116,9 @@
         <desc>Boyd ritiene che la vera identità di un assassino sia legata alla scomparsa di una famiglia.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023215215 +0200" stop="20251023221426 +0200" channel="risate-dal-sud-ita">
-        <title>Mudù - S7</title>
-        <desc>La serie comica italiana di Uccio De Santis, il "Re delle Barzellette Televisive", che attraverso degli sketch divertenti racconta le storie di alcuni personaggi unici pugliesi. Con situazioni esilaranti e un umorismo tipico, porta in scena cultura e tradizioni, regalando risate e leggerezza.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023221432 +0200" stop="20251023223635 +0200" channel="risate-dal-sud-ita">
-        <title>Mudù - S7</title>
-        <desc>La serie comica italiana di Uccio De Santis, il "Re delle Barzellette Televisive", che attraverso degli sketch divertenti racconta le storie di alcuni personaggi unici pugliesi. Con situazioni esilaranti e un umorismo tipico, porta in scena cultura e tradizioni, regalando risate e leggerezza.</desc>
+    <programme start="20251025224315 +0200" stop="20251025233325 +0200" channel="bbc-drama-it">
+        <title>Episodio 4</title>
+        <desc>Le indagini si stringono intorno agli altri membri della famiglia che nascondono una moltitudine di segreti.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223641 +0200" stop="20251023230241 +0200" channel="risate-dal-sud-ita">
@@ -24666,14 +24671,14 @@
         <desc>La serie comica italiana di Uccio De Santis, il "Re delle Barzellette Televisive", che attraverso degli sketch divertenti racconta le storie di alcuni personaggi unici pugliesi. Con situazioni esilaranti e un umorismo tipico, porta in scena cultura e tradizioni, regalando risate e leggerezza.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023211033 +0200" stop="20251023220352 +0200" channel="soap-turco-it">
-        <title>Love of My Life</title>
-        <desc>Per comprare il drone, Bartu ospita un ragazzo americano a casa, mentre Rezzan e Sezen partono per Ezurum.</desc>
+    <programme start="20251025221256 +0200" stop="20251025224133 +0200" channel="risate-dal-sud-ita">
+        <title>Mudù - S8</title>
+        <desc>La serie comica italiana di Uccio De Santis, il "Re delle Barzellette Televisive", che attraverso degli sketch divertenti racconta le storie di alcuni personaggi unici pugliesi. Con situazioni esilaranti e un umorismo tipico, porta in scena cultura e tradizioni, regalando risate e leggerezza.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023220359 +0200" stop="20251023225204 +0200" channel="soap-turco-it">
-        <title>Love of My Life</title>
-        <desc>Kaan, ancora ubriaco, decide di andar via da casa di Gokce, ma la incontra in compagnia di Demir. Tra i due pretendenti nasce un nuovo battibecco.</desc>
+    <programme start="20251025224140 +0200" stop="20251025230956 +0200" channel="risate-dal-sud-ita">
+        <title>Mudù - S8</title>
+        <desc>La serie comica italiana di Uccio De Santis, il "Re delle Barzellette Televisive", che attraverso degli sketch divertenti racconta le storie di alcuni personaggi unici pugliesi. Con situazioni esilaranti e un umorismo tipico, porta in scena cultura e tradizioni, regalando risate e leggerezza.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023225210 +0200" stop="20251023234239 +0200" channel="soap-turco-it">
@@ -24951,9 +24956,9 @@
         <desc>La visita inaspettata di Duru sconvolge Demir e la sua famiglia. Duru vuole vendicarsi e porta un socio in azienda, costringendo Demir a dimettersi.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023215323 +0200" stop="20251023223923 +0200" channel="soap-latino-it">
-        <title>Amore Senza Tempo</title>
-        <desc>Paola forza Tania a prendere le medicine. Sonia torna a casa. Cristina vuole comprare l’agenzia. Mirna rivela di aver sposato Eduardo.</desc>
+    <programme start="20251025223050 +0200" stop="20251025232421 +0200" channel="soap-turco-it">
+        <title>Love of My Life</title>
+        <desc>Demir, dopo aver lasciato il lavoro, avvia una nuova agenzia pubblicitaria con l'aiuto di Gökçe. Bartu ha problemi con la mafia e Hikmet finge una malattia, ma viene scoperto.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223929 +0200" stop="20251023232450 +0200" channel="soap-latino-it">
@@ -25266,9 +25271,14 @@
         <desc>Tania confessa di aver drogato Eduardo. Alessandro è distrutto, Eleonora viene accusata da Martin. Paola rifiuta di rinchiudere Tania .</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023212654 +0200" stop="20251023222045 +0200" channel="andromeda-it">
-        <title>Andromeda</title>
-        <desc>L'Andromeda è infestata da una misteriosa creatura salita a bordo durante una tempesta solare.</desc>
+    <programme start="20251025220113 +0200" stop="20251025224939 +0200" channel="soap-latino-it">
+        <title>Amore Senza Tempo</title>
+        <desc>Amparo minaccia Ruggero. Alessandro ha una visione di Eduardo. Tania vuole ostacolare la gravidanza di Mirna .</desc>
+        <icon src="" />
+    </programme>
+    <programme start="20251025224945 +0200" stop="20251025233922 +0200" channel="soap-latino-it">
+        <title>Amore Senza Tempo</title>
+        <desc>Paola e Alessandro si lasciano. Tania viene trasferita. Amparo prova a baciare Alessandro, che la respinge .</desc>
         <icon src="" />
     </programme>
     <programme start="20251023222046 +0200" stop="20251023231438 +0200" channel="andromeda-it">
@@ -25541,9 +25551,9 @@
         <desc>Grazie a un buco nero Dylan riesce a comunicare con la sua ex compagna, 300 anni fa.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023212435 +0200" stop="20251023222131 +0200" channel="serially-crime-ita">
-        <title>Cause Of Death - S1</title>
-        <desc>A Leyland due anziani con ferite gravi vengono trovati senza memoria, e uno muore. In un altro caso, un uomo sconosciuto viene rinvenuto in un pub e muore. Il medico legale indaga per scoprire cosa è successo e chi era realmente.</desc>
+    <programme start="20251025225020 +0200" stop="20251025234414 +0200" channel="andromeda-it">
+        <title>Andromeda</title>
+        <desc>I Castaliani salgono a bordo dell'Andromeda per ultimare la costituzione del Nuovo Commonwealth. Quando il loro leader viene trovato morto, tutti i sospetti ricadono su Tyr.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023222138 +0200" stop="20251023232421 +0200" channel="serially-crime-ita">
@@ -25791,9 +25801,9 @@
         <desc>Tragedie e indagini: da collasso a suicidio e incidente notturno.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023214402 +0200" stop="20251023224152 +0200" channel="filmrise-relic-hunter-ita">
-        <title>Relic Hunter</title>
-        <desc>Bekkastan, 1401 d.C.: La principessa guerriera Kahina fa valere il suo diritto a governare. 2002: Sydney e Nigel portano alla luce un dipinto sotterraneo che potrebbe portarli alla Sella di Kahina.</desc>
+    <programme start="20251025222014 +0200" stop="20251025232015 +0200" channel="serially-crime-ita">
+        <title>Love Cheats</title>
+        <desc>Megan viene sedotta da un uomo che finge di essere un nobile, ma scopre che è un truffatore con molteplici alias. Tra falsi anelli e prestiti a suo nome, la sua vita viene distrutta da questa manipolazione.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023224153 +0200" stop="20251023233733 +0200" channel="filmrise-relic-hunter-ita">
@@ -26051,9 +26061,9 @@
         <desc>Mentre Nigel, attratto dalla brillante studentessa Lorraine, le mostra il suo ufficio (e la bacia), un ladro stende Sydney. Ma che cosa voleva rubare?</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023213007 +0200" stop="20251023222342 +0200" channel="filmrise-sci-fi-it">
-        <title>Mutant X</title>
-        <desc>Mutant X incontra una nuova fazione di Nuovi Mutanti chiamata Strand, guidata dal primo e potente mutante Gabriel Ashlocke.</desc>
+    <programme start="20251025223157 +0200" stop="20251025232946 +0200" channel="filmrise-relic-hunter-ita">
+        <title>Relic Hunter</title>
+        <desc>Bekkastan, 1401 d.C.: La principessa guerriera Kahina fa valere il suo diritto a governare. 2002: Sydney e Nigel portano alla luce un dipinto sotterraneo che potrebbe portarli alla Sella di Kahina.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023222343 +0200" stop="20251023231903 +0200" channel="filmrise-sci-fi-it">
@@ -26321,10 +26331,10 @@
         <desc>Una Nuova Mutante con il potere dell'invisibilità sta lavorando sia contro Eckhart che contro Adam, nonostante sia stata coinvolta con Adam in passato.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023212956 +0200" stop="20251023222132 +0200" channel="crime-rakuten-tv">
-        <title>Mogli assassine</title>
-        <desc>Madre single, Laureen Blastow inizia a frequentare il suo vicino Chris ed entra inconsapevolmente in un circolo di abusi terrificanti che dura per decenni.  Lei rifiuta di lasciarlo, pensando di poterlo cambiare.</desc>
-        <icon src="https://images-1.rakuten.tv/storage/snapshot/shot/827baf74-0e26-49e6-8d9f-487e482186b1.jpeg" />
+    <programme start="20251025221711 +0200" stop="20251025231231 +0200" channel="filmrise-sci-fi-it">
+        <title>Relic Hunter</title>
+        <desc>Sydney e Nigel sono a Milano, in Italia, alla ricerca del famoso Libro dell'Amore di Casanova, andato perduto.</desc>
+        <icon src="" />
     </programme>
     <programme start="20251023222133 +0200" stop="20251023231343 +0200" channel="crime-rakuten-tv">
         <title>Mogli assassine</title>
@@ -26601,10 +26611,10 @@
         <desc>Karen Miller inizia una storia d'amore con un uomo più grande, ma lo lascia dopo essere rimasta incinta e torna a casa in Arizona. Una nuova storia d'amore con un collega si alimenta di alcol e abusi, finché lei non si difende conficcandogli un coltello nel collo.</desc>
         <icon src="https://images-1.rakuten.tv/storage/snapshot/shot/a47a3dac-1422-42b9-9f99-a2ab2672e45b.jpeg" />
     </programme>
-    <programme start="20251023210954 +0200" stop="20251023225120 +0200" channel="risate-all-italiana">
-        <title>Souvenir D'Italie</title>
-        <desc>La storia di tre turiste straniere: l'inglese Margaret, la francese Josette e la tedesca Hilde che passano la frontiera con l'Italia per visitare il nostro Paese ma un incidente alla loro macchina le costringerà ad arrangiarsi con mezzi di fortuna. Da Venezia a Firenze fino a Roma, le ragazze affronteranno una vacanza avventurosa ma indimenticabile. Con Vittorio De Sica e Alberto Sordi.</desc>
-        <icon src="" />
+    <programme start="20251025221513 +0200" stop="20251025230756 +0200" channel="crime-rakuten-tv">
+        <title>Mogli assassine</title>
+        <desc>Tina Gardner pensa di essere destinata al successo.  Incontra Andre che le chiede di aiutarlo a lanciare una nuova impresa commerciale e i due conquistano Las Vegas.  Ma la pressione porta ad accuse di tradimento e abusi, e nello scontro con un coltello Andre ha la peggio.</desc>
+        <icon src="https://images-3.rakuten.tv/storage/snapshot/shot/037d3769-1ec1-476b-82e2-5f6317b13ea7.jpeg" />
     </programme>
     <programme start="20251023225126 +0200" stop="20251024003647 +0200" channel="risate-all-italiana">
         <title>Camping</title>
@@ -26881,6 +26891,11 @@
         <desc>Nel 1854, Jeb Stuart, George Custer e altri laureati di West Point sono inviati in Kansas per aiutare a pacificare il territorio prima che la costruzione della ferrovia per Santa Fe possa riprendere.</desc>
         <icon src="" />
     </programme>
+    <programme start="20251025223331 +0200" stop="20251026002407 +0200" channel="grjngo-it">
+        <title>Little Rita nel West</title>
+        <desc>La piccola Rita è una pistolera donna che viaggia nel Far West a caccia di fuorilegge. Prende l'oro da loro e lo nasconde in una grotta che ha intenzione di far saltare in aria un giorno e sbarazzarsi della radice di ogni male: il denaro.</desc>
+        <icon src="" />
+    </programme>
     <programme start="20251023205832 +0200" stop="20251023230706 +0200" channel="brividy-cinema-ita">
         <title>The Holly Kane Experiment</title>
         <desc>Holly Kane è una psicologa che cerca fondi per i suoi esperimenti per riprogrammare la mente subconscia. A causa di una sua negligenza, si ritrova ad accettare la proposta di Marvin Greenslade, i cui finanziamenti la portano su un percorso in cui inizia a preoccuparsi della propria sanità mentale.</desc>
@@ -27011,9 +27026,9 @@
         <desc>Uno speaker radiofonico riceve strane telefonate da un ragazzo misterioso. Ma dietro la voce si nasconde un segreto inquietante. Thriller psicologico con Robin Williams.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023205426 +0200" stop="20251023224133 +0200" channel="cg-cinema-d-autore">
-        <title>Il marito è mio e l'ammazzo quando mi pare</title>
-        <desc>Allegra e Ignazo sono una bella coppia; lui in realtà molto più anziano di lei, ma questo non impedisce ai due di vivere insieme felicemente. Così, quando il giovane Leonardo inizia a corteggiare Allegra, la ragazza resiste alla tentazione e si ripromette fedeltà al marito fino a che questi non muoia. Ma Leonardo sembra seriamente deciso a dare una mano al destino. Iniziano così i suoi ripetuti tentativi per eliminare il rivale. Ignazio si rivela ben più coriaceo e fortunato del previsto!</desc>
+    <programme start="20251025223847 +0200" stop="20251026004122 +0200" channel="brividy-cinema-ita">
+        <title>The Canyons</title>
+        <desc>Christian è un ventenne ricco, prepotente e manipolatore. La fidanzata Tara è, invece, una ex modella che pur di stare con Christian calpesta propria dignità. Le loro vite saranno cambiate da un incontro sessuale che li condurrà in un percorso di violenza, inganni e paranoia.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023224139 +0200" stop="20251024003211 +0200" channel="cg-cinema-d-autore">
@@ -27151,9 +27166,9 @@
         <desc>L`operaio Bernardo Mabelli, detto Ghandi, fervente comunista ed ex pugile, salva Claudio da un pestaggio fascista e lo ospita nel suo appartamento, ignorando che è gay. Quando la verità verrà a galla, Ghandi dovrà fare i conti con le maldicenze dei colleghi e le preoccupazioni della sua fidanzata...</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023205453 +0200" stop="20251023223606 +0200" channel="dark-matter-it-new">
-        <title>AVZ: Angeli contro Zombie</title>
-        <desc>Sette Arcangeli affrontano l'Esercito dei Non Morti di Satana, dopo che un asteroide apocalittico ha colpito il pianeta Terra</desc>
+    <programme start="20251025224000 +0200" stop="20251026002250 +0200" channel="cg-cinema-d-autore">
+        <title>Sotto il vestito niente</title>
+        <desc>In seguito ad un terribile presagio, Bob raggiunge Milano dagli Stati Uniti per incontrare la sorella Jessica, modella, scoprendo che è misteriosamente scomparsa. Deciso a ritrovarla a tutti i costi, inizierà una difficile indagine mentre una tragica catena di omicidi ad opera di un unico, insospettabile assassino, getta nel panico gli ambienti dell`alta moda.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023223607 +0200" stop="20251024003722 +0200" channel="dark-matter-it-new">
@@ -27279,11 +27294,6 @@
     <programme start="20251025211258 +0200" stop="20251025231619 +0200" channel="dark-matter-it-new">
         <title>Un piccolo raggio di sole</title>
         <desc>Oregon, i due coloni Martha e Jed hanno appena perso i loro due figli per un'epidemia di colera. Nel tentativo di aiutarli il pastore del villaggio affida loro un orfano. Il ragazzino si dimostra subito simpatico e finisce per legare subito con Jed. Al contrario Martha, ancora in preda al ricordo dei figli non riesce ad accettare lui e la sua presenza. sorpresa.</desc>
-        <icon src="" />
-    </programme>
-    <programme start="20251023212354 +0200" stop="20251023225958 +0200" channel="western-e-peplum">
-        <title>La lunga cavalcata della vendetta</title>
-        <desc>Jeff, di ritorno dalla Guerra di Secessione, scopre che la sorella, Deborah, è stata derubata, violentata ed uccisa da una banda di criminali. In cerca di vendetta, l'uomo si prepara al massacro.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023230004 +0200" stop="20251024004005 +0200" channel="western-e-peplum">
@@ -27451,11 +27461,6 @@
         <desc>Affascinante Western magistralmente condotto da Giorgio Cristallini. Questa storia dal ritmo incalzante ruota attorno al rapimento della figlia di un pugile. Il pugile paga il riscatto, ma la ragazza non viene ancora rilasciata. Il fidanzato decide di riprendersela a modo suo, uccidendo lo spietato rapitore in un feroce duello.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023204727 +0200" stop="20251023222049 +0200" channel="comicita-piccante-movies">
-        <title>Il pupazzo</title>
-        <desc>Amalio Badalamenti è un calabrese che da 13 anni vive in Messico, guadagnandosi da vivere per sé e per la propria famiglia con un taxi. La moglie Carmen gli ha già dato 13 figli che lui ha chiamato con i mesi dell'anno. Diversa è la situazione di Pablo e Ronnie Copeka, titolari di una grossa industria di polli, che non hanno figli e sentono pesare su di loro l'ombra del padre.</desc>
-        <icon src="" />
-    </programme>
     <programme start="20251023222056 +0200" stop="20251023235203 +0200" channel="comicita-piccante-movies">
         <title>Peccatori di provincia</title>
         <desc>"Parenti serpenti, cugini assassini e fratelli coltelli" in questa simpaticissima commedia con Renzo Montagnani! Il ricco Emanuele Lo Curcio, alla sua morte, lascia tutti i suoi beni alla figlia naturale Domitilla. Delusione e rabbia da parte dei suoi numerosi parenti, indebitati fino al collo, i quali, ospitata la ragazza, tentano con ogni sorta di raggiri di spogliarla dell'eredità.</desc>
@@ -27601,9 +27606,9 @@
         <desc>Commedia all'italiana con un cast d'eccezione tra cui Monica Vitti, Roberto Benigni, Ursula Andress e Michele Placido. Otto episodi intrecciano storie di seduzione, tradimenti ed equivoci che celebrano la comicità del periodo tra desideri proibiti e amori clandestini.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023204525 +0200" stop="20251023220503 +0200" channel="bizzarro-movies">
-        <title>Killjoy - Il clown</title>
-        <desc>Ricordi l'ultima volta in cui hai promesso che non avresti più guardato i film sui pagliacci? Dovresti ripensarci, Kill Joy è assolutamente da aggiungere alla collezione. Michael è innamorato della fidanzata di un terribile bullo, e per questo viene ucciso. La sua dimestichezza con la magia nera, però, riesce a risvegliare un potente clown che lo vendicherà.</desc>
+    <programme start="20251025223950 +0200" stop="20251026002014 +0200" channel="comicita-piccante-movies">
+        <title>Voglia di donna</title>
+        <desc>Tre episodi dove le coppie sono protagoniste: un gelataio innamorato di una donna focosa, una ragazza che tradisce il fidanzato e due sposini che si videoregistrano.</desc>
         <icon src="" />
     </programme>
     <programme start="20251023220510 +0200" stop="20251023232519 +0200" channel="bizzarro-movies">
@@ -27771,11 +27776,6 @@
         <desc>Killjoy torna nel quarto capitolo della serie sul clown demoniaco. Questa volta è accusato di non essere malvagio, poiché ha lasciato scappare una delle sue vittime (Sandie). Killjoy deve affidarsi alla sua unica possibilità di dimostrare quanto sia realmente malvagio: portare Sandie all'inferno come testimone.</desc>
         <icon src="" />
     </programme>
-    <programme start="20251023200703 +0200" stop="20251023225138 +0200" channel="sci-fi-rakuten-tv">
-        <title>La cura dal benessere</title>
-        <desc>Dal visionario regista di The Ring, arriva un thriller psicologico. Un giovane ed ambizioso dirigente viene mandato in un misterioso "centro benessere" a riprendere l'AD della sua azienda.</desc>
-        <icon src="https://images-0.rakuten.tv/storage/snapshot/shot/e425f116-e823-4e5b-a4bd-fa3a2fc4c2c3.jpeg" />
-    </programme>
     <programme start="20251023225139 +0200" stop="20251024013245 +0200" channel="sci-fi-rakuten-tv">
         <title>Alienoid</title>
         <desc>Un'epica avventura pluripremiata al Gran Bell Awards in Corea del Sud. In tre linee temporali (1380, 1381, 2022), un samurai cerca la spada divina, un alieno intrappolato in un umano lotta contro inseguitori temibili. Un'azione strabiliante che sfida il tempo e lo spazio.</desc>
@@ -27918,10 +27918,10 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
         <desc>Dopo che l'approvvigionamento idrico della Terra si è esaurito, i sopravvissuti vagano per le strade per reperire dell'acqua. Ma una nuova razza di esseri umani che si nutre di sangue minaccia ancora una volta il destino dell'umanità.</desc>
         <icon src="https://images-2.rakuten.tv/storage/snapshot/shot/b2878247-8d94-4b99-ac1a-aeba47829dea-snapshot-1590669460.jpeg" />
     </programme>
-    <programme start="20251023205924 +0200" stop="20251023225302 +0200" channel="asian-cinema-rakuten-tv">
-        <title>Le cronache di Huadu - La spada e la rosa (The twins effect II)</title>
-        <desc>Nel mitico regno di Huadu, in cui le donne gestiscono il potere e gli uomini sono trattati come schiavi, un umile ragazzo deve intraprendere il suo viaggio per reclamare il suo trono.</desc>
-        <icon src="https://images-3.rakuten.tv/storage/snapshot/shot/80087b08-b51c-47bc-9583-1768161c1cb2.jpeg" />
+    <programme start="20251025223711 +0200" stop="20251026001514 +0200" channel="sci-fi-rakuten-tv">
+        <title>Ice Sharks</title>
+        <desc>Una nuova razza di squali feroci ed affamati distrugge la crosta ghiacciata vicino ad una stazione di ricerca dell Artico, divorando chiunque ci finisce dentro. Quando la stazione affonda nell oceano gelido, i sopravvissuti dovranno combattere con armi improvvisate o subire lo stesso destino.</desc>
+        <icon src="https://images-2.rakuten.tv/storage/snapshot/shot/1b585b9f-0e4e-4c2f-974a-75433c09b209-snapshot-1590658996.jpeg" />
     </programme>
     <programme start="20251023225303 +0200" stop="20251024012004 +0200" channel="asian-cinema-rakuten-tv">
         <title>Shaolin</title>
@@ -28188,11 +28188,6 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
         <desc>Una commedia romantica che avvicina tre uomini alle prese con un mondo impegnativo e spesso confusionario, mentre lottano insieme contro un demone comune: la dipendenza dal sesso. Scopriranno che rimanendo uniti potrebbero finalmente avere la loro possibilità di essere felici.</desc>
         <icon src="https://images-3.rakuten.tv/storage/snapshot/shot/8f7a220c-76b3-498d-9748-fd47cce7e28d.jpeg" />
     </programme>
-    <programme start="20251023204139 +0200" stop="20251023223000 +0200" channel="drama-rakuten-tv">
-        <title>Indian Horse</title>
-        <desc>1959, Winnipeg. Rimasto orfano, Saul viene spedito in un collegio per ragazzi indiani gestito dall'istituzione Cattolica dove gli ospiti sono vittime di violenze. Il giovane si rifugia nel hockey. Una volta adottato Saul spera di giocare in una squadra ma dovrà scontrarsi con pregiudizi e razzismo.</desc>
-        <icon src="https://images-3.rakuten.tv/storage/snapshot/shot/9fe0daca-02bc-49df-9318-9084bd59e080.jpeg" />
-    </programme>
     <programme start="20251023223001 +0200" stop="20251024002258 +0200" channel="drama-rakuten-tv">
         <title>Goodbye Lover</title>
         <desc>Nella soleggiata Los Angeles, Sandra Dunmore, scaltra, sexy e senza scrupoli, insegue con determinazione il suo posto al sole. Nella sua ascesa Sandra potrebbe dover calpestare i piedi a qualcuno... con i suoi tacchi a spillo. Ma questo non la rende cattiva.</desc>
@@ -28453,11 +28448,6 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
         <desc>Calvin (Ice Cube) è un aspirante imprenditore con grandi progetti. Ma quando vende impulsivamente il negozio a un usuraio losco, si rende presto conto di quanto sia importante per lui il salone del quartiere... e fino a che punto è disposto ad arrivare per riaverlo!</desc>
         <icon src="https://images-3.rakuten.tv/storage/snapshot/shot/a575c2f5-6f89-444d-9cc0-3b8632b4b1c8.jpeg" />
     </programme>
-    <programme start="20251023203031 +0200" stop="20251023221648 +0200" channel="action-rakuten-tv">
-        <title>Dr. Cheon e il talismano Perduto</title>
-        <desc>Lo psichiatra Dr. Cheon e il suo assistente viaggiano in tutto il paese per eseguire finti esorcismi. Un giorno, una donna misteriosa fa loro visita per chiedergli di curare la sorella malata e li conduce in un tetro villaggio abbandonato dove incontrano la bambina.</desc>
-        <icon src="https://images-1.rakuten.tv/storage/snapshot/shot/2115c8dd-1885-4e3e-a46f-e2876f145992.jpeg" />
-    </programme>
     <programme start="20251023221649 +0200" stop="20251023235230 +0200" channel="action-rakuten-tv">
         <title>Avengers Grimm</title>
         <desc>La rottura di uno specchio magico provoca l'apertura di un portale che risucchia il malvagio Tremotino e le principesse delle fiabe, catapultandoli dalla Terra del Reame al mondo reale.</desc>
@@ -28607,11 +28597,6 @@ che accettano il nuovo governo e coloro che invece si oppongono dando vita alla 
         <title>Hansel &amp; Gretel - Cacciatori di streghe</title>
         <desc>Ritrovando Hansel e Gretel 15 anni dopo il loro incidente con la casetta di pan di zenzero, i fratelli si sono trasformati in cacciatori di taglie che danno la caccia alle streghe.</desc>
         <icon src="https://images-3.rakuten.tv/storage/snapshot/shot/036871c6-760a-4cfd-b020-5e9beba61a6f-snapshot-1590659213.jpeg" />
-    </programme>
-    <programme start="20251023203414 +0200" stop="20251023223344 +0200" channel="top-movies-rakuten-tv">
-        <title>S.W.A.T.</title>
-        <desc>Gli Swat dell'esercito cinese rappresentano il corpo d'elite più addrestrato e letale di tutta la nazione. Solo i migliori agenti ne possono far parte. Quando un pericoloso narcotrafficante americano (Robert Knepper) sbarca in Cina...</desc>
-        <icon src="https://images-3.rakuten.tv/storage/snapshot/shot/fbdda55f-2a80-43b4-99f5-e5f48bd93a9a-te-jing-dui-1594368262.jpeg" />
     </programme>
     <programme start="20251023223345 +0200" stop="20251024004315 +0200" channel="top-movies-rakuten-tv">
         <title>Assassin's Creed</title>
