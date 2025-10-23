@@ -8,7 +8,7 @@ import sys
 
 # --- Configuration Constants ---
 
-EPG_TIMEFRAME = 48 # Time window in hours for EPG
+EPG_TIMEFRAME = 12 # Time window in hours for EPG
 CHANNELS_CHUNK = 25 # Number of channels per single request
 TIMEFRAME_CHUNK = 4 # Time window chunk for single request
 MARKET = 'it'
@@ -133,7 +133,7 @@ def get_json(url, start_epg_iso, end_epg_iso, page, MARKET, CLASSIFICATION_ID):
     """
 
     params = {
-        'CLASSIFICATION_ID':CLASSIFICATION_ID,
+        'classification_id':CLASSIFICATION_ID,
         'device_identifier':'web',
         'epg_ends_at':f'{end_epg_iso}',
         'epg_starts_at':f'{start_epg_iso}',
@@ -150,9 +150,10 @@ def get_json(url, start_epg_iso, end_epg_iso, page, MARKET, CLASSIFICATION_ID):
         response.raise_for_status()
         
     except requests.exceptions.RequestException as e:
+        print_params = ''.join(f'{k}={v}\n' for k, v in params.items())
         print (f'Error during request of {url} with params:\n'
-               ''.join(f'{k}={v}\n' for k, v in params.items())
-               )
+               f'{print_params}'
+               f'{e}')
         return None
 
     try:
@@ -161,7 +162,7 @@ def get_json(url, start_epg_iso, end_epg_iso, page, MARKET, CLASSIFICATION_ID):
         print(f'No valid json for {url} with params:\n'
               ''.join(f'{k}={v}\n' for k, v in params.items())
               )
-        return {'data':'error'}
+        return None
 
     return file_json
 
@@ -183,6 +184,8 @@ if __name__ == '__main__':
     # Initialize page number
     page = 1
 
+    exit_cycle = 0 #controls the exit condition (witout errors) for next cycle
+
     while True:
         print(f'Processing page {page}')
         # Initialize time chunk cycle counter
@@ -203,30 +206,35 @@ if __name__ == '__main__':
             json_chunk = get_json(url, start_epg_iso, end_epg_iso, page, MARKET, CLASSIFICATION_ID)
             start_epg = end_epg # Moves start_epg to the end of the previous chunk
 
-            if json_chunk.get('data', '') == 'error':
-                    sys.exit()
+            #if json_chunk.get('data', '') == 'error':
+                    #sys.exit()                
 
             if json_chunk:
-                try:
-                    chunk_info_list = json_chunk.get('data', [])
-                except:
-                    # Break the time window loop if the response is not valid JSON
-                    break 
+                ###Writing json files commented out: only for debug
+                #with open(f'response_{page}_{n}.xml', 'w') as outfile:
+                    #json.dump(json_chunk, outfile, indent = 4)
+                if 'data' not in json_chunk:
+                    print('Responce from server contain invalid data for epg. Exit without writing epg file')
+                    sys.exit() #data returned by server not valid
+                    
+                chunk_info_list = json_chunk.get('data')
                 
                 if not chunk_info_list: 
                     print (f'No data for page {page}, from {start_epg_iso} to {end_epg_iso}')
                     if n == 1:
-                       json_chunk = None # For external loop exit control
+                       exit_cycle = 1 # For external loop exit control
                     break
                 
                 append_info(epg_dict, chunk_info_list)
                 n += 1 # Increment only if data is valid
 
             else:
-                break # Break the time window loop in case of request error
+                # Server error or response is not a json
+                print('Exit without writing epg file')
+                sys.exit() 
 
         # Break if the result is empty in the first time window
-        if (n == 1) and (not json_chunk):  
+        if (n == 1) and (exit_cycle == 1):  
             break
         
         # Go to the next page
