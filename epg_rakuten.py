@@ -127,7 +127,7 @@ def append_info(epg_dict, chunk_info_list):
                 
 # --- JSON Request Function ---
 
-def get_json(url, start_epg_iso, end_epg_iso, page, MARKET, class_id):
+def get_json(url, start_epg_iso, end_epg_iso, page, MARKET, CLASSIFICATION_ID):
     """
     Executes the API request and handles HTTP and JSON errors.
     """
@@ -200,7 +200,7 @@ if __name__ == '__main__':
             
             print(f'start: {start_epg_iso}, end: {end_epg_iso}')
             
-            json_chunk = get_json(url, start_epg_iso, end_epg_iso, page, MARKET, class_id)
+            json_chunk = get_json(url, start_epg_iso, end_epg_iso, page, MARKET, CLASSIFICATION_ID)
             start_epg = end_epg # Moves start_epg to the end of the previous chunk
 
             if json_chunk.get('data', '') == 'error':
