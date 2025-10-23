@@ -241,7 +241,6 @@ if __name__ == '__main__':
         print(f'Market: {MARKET}\nclassification_id: {class_id}')
 
     if not class_id:
-        
         # Fallback to default values in case of error
         print(f'Not possible to retrieve classification_id for specified market ({MARKET}). Set default values for the \'it\' market')
         class_id = '36'
